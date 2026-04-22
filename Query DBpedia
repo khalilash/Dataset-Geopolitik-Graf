@@ -1,0 +1,17 @@
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT 
+(str(?cityNameRaw) AS ?cityName) 
+(str(?currencyNameRaw) AS ?currency)
+WHERE {
+  ?city a dbo:City ;
+        rdfs:label ?cityNameRaw ;
+        dbo:country ?country .
+  
+  ?country dbo:currency ?currencyEntity .
+  ?currencyEntity rdfs:label ?currencyNameRaw .
+  
+  FILTER (LANG(?cityNameRaw) = "en")
+  FILTER (LANG(?currencyNameRaw) = "en")
+}
