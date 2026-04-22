@@ -1,0 +1,1526 @@
+cityName,population,coords,countryName,continent,officialLanguage
+Calgary,1306784,Point(-114.066666666 51.05),Canada,North America,French
+Paris,2103778,Point(2.352222222 48.856666666),France,Europe,French
+Brussels-Capital Region,1255795,Point(4.3525 50.846666666),Belgium,Europe,French
+N'Djamena,1092066,Point(15.05 12.11),Chad,Africa,French
+Montreal,1895211,Point(-73.5868411 45.5033426),Canada,North America,French
+Toronto,2794356,Point(-79.386666666 43.670277777),Canada,North America,French
+Ottawa,1017449,Point(-75.695 45.424722222),Canada,North America,French
+Metropolis of Lyon,1436354,Point(4.853973694 45.7574955),France,Europe,French
+Montreal,1762949,Point(-73.5868411 45.5033426),Canada,North America,French
+Edmonton,1010899,Point(-113.5 53.533333333),Canada,North America,French
+East Berlin,1279212,Point(13.404444444 52.518611111),German Democratic Republic,Europe,German
+Pointe-Noire,1420612,Point(11.850277777 -4.7975),Republic of the Congo,Africa,French
+Yaoundé,2440462,Point(11.518055555 3.857777777),Cameroon,Africa,French
+Kigali,1745555,Point(30.115 -1.9525),Rwanda,Africa,French
+Mbuji-Mayi,2201000,Point(23.5967 -6.1209),Democratic Republic of the Congo,Africa,French
+Lubumbashi,1786397,Point(27.482777777 -11.664166666),Democratic Republic of the Congo,Africa,French
+Douala,2768436,Point(9.7 4.05),Cameroon,Africa,French
+Tshikapa,1006387,Point(20.8 -6.416666666),Democratic Republic of the Congo,Africa,French
+Garoua,1750000,Point(13.4 9.3),Cameroon,Africa,French
+Pikine,1170791,Point(-17.402055555 14.744),Senegal,Africa,French
+Brazzaville,2145783,Point(15.271111111 -4.269444444),Republic of the Congo,Africa,French
+Antananarivo,1275207,Point(47.525 -18.91),Madagascar,Africa,French
+Dakar,1438725,Point(-17.432 14.672555555),Senegal,Africa,French
+Kisangani,1366000,Point(25.191111111 0.515277777),Democratic Republic of the Congo,Africa,French
+Kinshasa,14565700,Point(15.311944444 -4.321944444),Democratic Republic of the Congo,Africa,French
+Mbuji-Mayi,1680991,Point(23.5967 -6.1209),Democratic Republic of the Congo,Africa,French
+Abidjan,5616633,Point(-4.026666666 5.336388888),Ivory Coast,Africa,French
+Conakry,1667864,Point(-13.712222222 9.509166666),Guinea,Africa,French
+Mbuji-Mayi,1193891,Point(23.5967 -6.1209),Democratic Republic of the Congo,Africa,French
+Kananga,1971704,Point(22.416666666 -5.896111111),Democratic Republic of the Congo,Africa,French
+Lomé,2188376,Point(1.215833333 6.13),Togo,Africa,French
+Mbuji-Mayi,2892000,Point(23.5967 -6.1209),Democratic Republic of the Congo,Africa,French
+Mbuji-Mayi,1559073,Point(23.5967 -6.1209),Democratic Republic of the Congo,Africa,French
+Mbuji-Mayi,1213726,Point(23.5967 -6.1209),Democratic Republic of the Congo,Africa,French
+Hamburg,1910160,Point(10.0 53.55),Germany,Europe,German
+Cologne,1087353,Point(6.957777777 50.942222222),Germany,Europe,German
+Munich,1510378,Point(11.575 48.1375),Germany,Europe,German
+Berlin,3782202,Point(13.383333333 52.516666666),Germany,Europe,German
+Tripoli,1293016,Point(13.18746 32.87519),Italian Libya,Africa,Italian
+Havana,2141652,Point(-82.358888888 23.136666666),Cuba,North America,Spanish
+Havana,2492618,Point(-82.358888888 23.136666666),Cuba,North America,Spanish
+Havana,2089532,Point(-82.358888888 23.136666666),Cuba,North America,Spanish
+Hargeisa,1227620,Point(44.060556 9.565556),Somaliland,Africa,English
+Hengyang,6645243,Point(112.58568 26.89676),Qing dynasty,Asia,Mongolian
+Hengyang,6645243,Point(112.58568 26.89676),Qing dynasty,Asia,Chinese
+Omdurman,2805396,Point(32.462887 15.683517),Sudan,Africa,English
+Khartoum,5345000,Point(32.52654 15.60308),Sudan,Africa,English
+Tbilisi,1118035,Point(44.7925 41.7225),Georgia,Europe,Abkhaz
+Brussels-Capital Region,1255795,Point(4.3525 50.846666666),Belgium,Europe,German
+Vienna,2028289,Point(16.3725 48.208333333),Austria,Europe,German
+Monterrey,1142952,Point(-100.318055555 25.684444444),Mexico,North America,Spanish
+Guadalajara,1385621,Point(-103.342222222 20.676388888),Mexico,North America,Spanish
+Tijuana,1964788,Point(-117.037155 32.536447),Mexico,North America,Spanish
+Mexico City,9209944,Point(-99.13589 19.353773),Mexico,North America,Spanish
+Zapopan,1257547,Point(-103.391111111 20.720833333),Mexico,North America,Spanish
+San Luis Potosí,2822255,Point(-100.975 22.149722222),Mexico,North America,Spanish
+Veracruz,8062579,Point(-96.153333333 19.190277777),Mexico,North America,Spanish
+León de Los Aldama,1579803,Point(-101.683333333 21.121944444),Mexico,North America,Spanish
+Madrid,3506730,Point(-3.703333333 40.416944444),Spain,Europe,Spanish
+Pampas,44399835,Point(-74.8667 -12.3989),Peru,South America,Spanish
+Guayaquil,2650288,Point(-79.8875 -2.19),Ecuador,South America,Spanish
+Panama City,1540000,Point(-79.534722222 8.971111111),Panama,North America,Spanish
+Greater Mexico City,21905000,Point(-99.133158333 19.432519444),Mexico,North America,Spanish
+Quito,1763275,Point(-78.5125 -0.22),Ecuador,South America,Spanish
+Cali,2234400,Point(-76.5225 3.437222222),Colombia,South America,Spanish
+San Diego,1386932,Point(-67.953888888 10.255833333),Venezuela,South America,Spanish
+Rosario,1037710,Point(-60.639444444 -32.9575),Argentina,South America,Spanish
+Santo Domingo,1029110,Point(-71.65 -33.633333333),Chile,South America,Spanish
+Lima,9943800,Point(-77.0375 -12.06),Peru,South America,Spanish
+Ciudad Juárez,1512450,Point(-106.42 31.6685),Mexico,North America,Spanish
+Tegucigalpa,1055729,Point(-87.204705555 14.105783333),Honduras,North America,Spanish
+Santo Domingo,2201941,Point(-69.936111111 18.4625),Dominican Republic,North America,Spanish
+Greater Buenos Aires,13985794,Point(-58.3719 -34.6083),Argentina,South America,Spanish
+El Paso–Juárez,2400000,Point(-106.48694444 31.73944444),Mexico,North America,Spanish
+Medellín,2529403,Point(-75.5675845 6.250200154),Colombia,South America,Spanish
+Bogotá,8034649,Point(-74.08175 4.60971),Colombia,South America,Spanish
+Arequipa,1008290,Point(-71.536944444 -16.398888888),Peru,South America,Spanish
+Buenos Aires,3121707,Point(-58.381944444 -34.599722222),Argentina,South America,Spanish
+Casablanca,3218036,Point(-71.416666666 -33.316666666),Chile,South America,Spanish
+Santiago,6269384,Point(-72.443676 -12.6175153),Peru,South America,Spanish
+Maracaibo,1551539,Point(-71.633333333 10.633333333),Venezuela,South America,Spanish
+Santiago,6257516,Point(-70.65 -33.4375),Chile,South America,Spanish
+Madrid city,3332035,Point(-3.70256 40.4165),Spain,Europe,Spanish
+Ciudad Juárez,1321004,Point(-106.42 31.6685),Mexico,North America,Spanish
+Valencia,1484430,Point(-68.0 10.166666666),Venezuela,South America,Spanish
+Córdoba,1505250,Point(-64.183333333 -31.416666666),Argentina,South America,Spanish
+Maracay,1102088,Point(-67.595833333 10.246944444),Venezuela,South America,Spanish
+Rosario,1193605,Point(-60.639444444 -32.9575),Argentina,South America,Spanish
+Maracaibo,1752602,Point(-71.633333333 10.633333333),Venezuela,South America,Spanish
+Cali,2471474,Point(-76.519722222 3.44),Colombia,South America,Spanish
+Santiago de los Caballeros,1343423,Point(-70.7 19.45),Dominican Republic,North America,Spanish
+El Paso–Juárez,2539946,Point(-106.48694444 31.73944444),Mexico,North America,Spanish
+Santa Cruz de la Sierra,3151676,Point(-63.1975 -17.789166666),Bolivia,South America,Spanish
+Madrid city,3332035,Point(-3.68760088 40.40841191),Spain,Europe,Spanish
+Barranquilla,1326588,Point(-74.801944444 10.983333333),Colombia,South America,Spanish
+Caracas,2245744,Point(-66.914444444 10.506111111),Venezuela,South America,Spanish
+Barquisimeto,1059092,Point(-69.346694444 10.067777777),Venezuela,South America,Spanish
+Barcelona,1731649,Point(2.176944444 41.3825),Spain,Europe,Spanish
+Şanlıurfa,1985753,Point(38.791666666 37.158333333),Turkey,Asia,Turkish
+Antalya,2426356,Point(30.69556 36.90812),Turkey,Asia,Turkish
+Kocaeli Province,1953035,Point(29.945 40.764444444),Turkey,Asia,Turkish
+Bursa,2901396,Point(29.080538888 40.191330555),Turkey,Asia,Turkish
+Diyarbakır,1732396,Point(40.236666666 37.910833333),Turkey,Asia,Turkish
+Kocaeli Province,1906391,Point(29.945 40.764444444),Turkey,Asia,Turkish
+Konya Province,2076524,Point(32.491944444 37.8725),Turkey,Asia,Turkish
+Istanbul,15655924,Point(28.960277777 41.01),Turkey,Asia,Turkish
+İzmir,4493242,Point(27.13838 38.41273),Turkey,Asia,Turkish
+Balıkesir,1250610,Point(27.884166666 39.651111111),Turkey,Asia,Turkish
+Samsun,1368488,Point(36.33 41.286666666),Turkey,Asia,Turkish
+Kayseri,1389680,Point(35.4875 38.7225),Turkey,Asia,Turkish
+Konya,2232374,Point(32.492138888 37.872769444),Turkey,Asia,Turkish
+Konya Province,2296347,Point(32.491944444 37.8725),Turkey,Asia,Turkish
+Ankara,5803482,Point(32.83869 39.93576),Turkey,Asia,Turkish
+Van,1127612,Point(43.416666666 38.501944444),Turkey,Asia,Turkish
+Konya Province,2205609,Point(32.491944444 37.8725),Turkey,Asia,Turkish
+Mersin,1040507,Point(34.616666666 36.8),Turkey,Asia,Turkish
+Gaziantep,1680723,Point(37.379166666 37.062777777),Turkey,Asia,Turkish
+Adana,1765981,Point(35.31346 37.00262),Turkey,Asia,Turkish
+Denizli,1027782,Point(29.096388888 37.783333333),Turkey,Asia,Turkish
+Kocaeli Province,1851790,Point(29.945 40.764444444),Turkey,Asia,Turkish
+Shymkent,1184113,Point(69.6 42.3),Kazakhstan,Asia,Russian
+Shymkent,1184113,Point(69.6 42.3),Kazakhstan,Europe,Russian
+Minsk,1995091,Point(27.561837 53.902246),Belarus,Europe,Russian
+Almaty,2228675,Point(76.915 43.24),Kazakhstan,Asia,Russian
+Almaty,2228675,Point(76.915 43.24),Kazakhstan,Europe,Russian
+Astana,1078362,Point(71.433333333 51.133333333),Kazakhstan,Asia,Russian
+Astana,1078362,Point(71.433333333 51.133333333),Kazakhstan,Europe,Russian
+Shymkent,1191877,Point(69.6 42.3),Kazakhstan,Asia,Russian
+Shymkent,1191877,Point(69.6 42.3),Kazakhstan,Europe,Russian
+Sofia,1205548,Point(23.321726 42.697886),Bulgaria,Europe,Bulgarian
+Waqooyi-Bari,2500000,Point(48.41666667 9.13333333),Somalia,Africa,Arabic
+Omdurman,2805396,Point(32.462887 15.683517),Sudan,Africa,Arabic
+Khartoum,5345000,Point(32.52654 15.60308),Sudan,Africa,Arabic
+Mogadishu,2120000,Point(45.341944444 2.039166666),Somalia,Africa,Arabic
+Bucharest,1716961,Point(26.097777777 44.413361111),Romania,Europe,Romanian
+Bangkok,5676648,Point(100.516666666 13.75),Rattanakosin Kingdom,Asia,Thai
+Waqooyi-Bari,2500000,Point(48.41666667 9.13333333),Somalia,Africa,Somali
+Mogadishu,2120000,Point(45.341944444 2.039166666),Somalia,Africa,Somali
+Hengyang,6645243,Point(112.58568 26.89676),Qing dynasty,Asia,Tibetan
+Rome,2748109,Point(12.482777777 41.893055555),Italy,Europe,Italian
+Milan,1354196,Point(9.19 45.466944444),Italy,Europe,Italian
+Hargeisa,1227620,Point(44.060556 9.565556),Somaliland,Africa,Arabic
+Pikine,1170791,Point(-17.402055555 14.744),Senegal,Africa,Balanta
+Hengyang,6645243,Point(112.58568 26.89676),Qing dynasty,Asia,Manchu
+Dakar,1438725,Point(-17.432 14.672555555),Senegal,Africa,Balanta
+Prague,1397880,Point(14.421388888 50.0875),Czech Republic,Europe,Czech
+Tbilisi,1118035,Point(44.7925 41.7225),Georgia,Europe,Georgian
+Katowice urban area,1903000,Point(19.0 50.25),Poland,Europe,Polish
+Warsaw,1862402,Point(21.011111111 52.23),Poland,Europe,Polish
+Kano,2095000,Point(8.516666666 12.0),Nigeria,Africa,English
+Benin City,1780000,Point(5.6145 6.3176),Nigeria,Africa,English
+Kano,4348000,Point(8.516666666 12.0),Nigeria,Africa,English
+Zamboanga City,1018849,Point(122.076111111 6.904166666),Philippines,Asia,English
+Kano,2095000,Point(8.592 12.0022),Nigeria,Africa,English
+Yaoundé,2440462,Point(11.518055555 3.857777777),Cameroon,Africa,English
+Kano,4348000,Point(8.592 12.0022),Nigeria,Africa,English
+Kigali,1745555,Point(30.115 -1.9525),Rwanda,Africa,English
+Abuja,1693400,Point(7.491388888 9.055555555),Nigeria,Africa,English
+Harare,2150000,Point(31.052222222 -17.829166666),Zimbabwe,Africa,English
+Quezon City,3084270,Point(121.0475 14.65),Philippines,Asia,English
+Ogbomosho,1032000,Point(4.25 8.133333333),Nigeria,Africa,English
+Kampala,1680600,Point(32.581111111 0.313611111),Uganda,Africa,English
+Aba,1160000,Point(7.366666666 5.116666666),Nigeria,Africa,English
+Onitsha,1483000,Point(6.783333333 6.166666666),Nigeria,Africa,English
+Douala,2768436,Point(9.7 4.05),Cameroon,Africa,English
+Kano,2602000,Point(8.516666666 12.0),Nigeria,Africa,English
+Garoua,1750000,Point(13.4 9.3),Cameroon,Africa,English
+Davao City,1848947,Point(125.609441666 7.066233333),Philippines,Asia,English
+Enugu,1029400,Point(7.494166666 6.440277777),Nigeria,Africa,English
+Lusaka,2467563,Point(28.283333333 -15.416666666),Zambia,Africa,English
+Lagos,15070000,Point(3.393611111 6.456111111),Nigeria,Africa,English
+Kano,2602000,Point(8.592 12.0022),Nigeria,Africa,English
+Monrovia,1021762,Point(-10.804722222 6.310555555),Liberia,Africa,English
+Ibadan,2559853,Point(3.905833333 7.3775),Nigeria,Africa,English
+Dar es Salaam,4715000,Point(39.280277777 -6.816111111),Tanzania,Africa,English
+Taguig,1308085,Point(121.05 14.516666666),Philippines,Asia,English
+Metro Manila,14001751,Point(121.0 14.583333333),Philippines,Asia,English
+Kano,3999000,Point(8.516666666 12.0),Nigeria,Africa,English
+Port Harcourt,3325000,Point(7.016316 4.765466),Nigeria,Africa,English
+Kano,3848885,Point(8.516666666 12.0),Nigeria,Africa,English
+Maiduguri,1197497,Point(13.15 11.833333333),Nigeria,Africa,English
+Manila,1902590,Point(120.977222222 14.595833333),Philippines,Asia,English
+Kano,3999000,Point(8.592 12.0022),Nigeria,Africa,English
+Kano,3848885,Point(8.592 12.0022),Nigeria,Africa,English
+Port Harcourt,3480000,Point(7.016316 4.765466),Nigeria,Africa,English
+Ibadan,2550593,Point(3.905833333 7.3775),Nigeria,Africa,English
+Caloocan,1712945,Point(120.966666666 14.65),Philippines,Asia,English
+Masvingo,1638528,Point(30.832777777 -20.074444444),Zimbabwe,Africa,English
+Kharkiv,1421125,Point(36.231111111 49.9925),Ukraine,Europe,Ukrainian
+Odesa,1010537,Point(30.73262 46.47747),Ukraine,Europe,Ukrainian
+Kyiv,2952301,Point(30.523611111 50.45),Ukraine,Europe,Ukrainian
+Shymkent,1184113,Point(69.6 42.3),Kazakhstan,Asia,Kazakh
+Shymkent,1184113,Point(69.6 42.3),Kazakhstan,Europe,Kazakh
+Almaty,2228675,Point(76.915 43.24),Kazakhstan,Asia,Kazakh
+Almaty,2228675,Point(76.915 43.24),Kazakhstan,Europe,Kazakh
+Baku,2300500,Point(49.835183333 40.366655555),Azerbaijan,Asia,Azerbaijani
+Baku,2300500,Point(49.835183333 40.366655555),Azerbaijan,Asia,Azerbaijani Sign Language
+Astana,1078362,Point(71.433333333 51.133333333),Kazakhstan,Asia,Kazakh
+Astana,1078362,Point(71.433333333 51.133333333),Kazakhstan,Europe,Kazakh
+Shymkent,1191877,Point(69.6 42.3),Kazakhstan,Asia,Kazakh
+Shymkent,1191877,Point(69.6 42.3),Kazakhstan,Europe,Kazakh
+Minsk,1995091,Point(27.561837 53.902246),Belarus,Europe,Belarusian
+Pikine,1170791,Point(-17.402055555 14.744),Senegal,Africa,Badyara
+Dakar,1438725,Point(-17.432 14.672555555),Senegal,Africa,Badyara
+South Tangerang,1644899,Point(106.718055555 -6.288888888),Indonesia,Asia,Indonesian
+Hargeisa,1227620,Point(44.060556 9.565556),Somaliland,Africa,Somali
+Sumbawa,1669787,Point(117.427313532 -8.500446873),Indonesia,Asia,Indonesian
+Malang,1175282,Point(112.632727716 -7.96893041),Indonesia,Asia,Indonesian
+Surabaya,3009286,Point(112.737767222 -7.246283611),Indonesia,Asia,Indonesian
+Tangerang,2237006,Point(106.640277777 -6.170277777),Indonesia,Asia,Indonesian
+Kota Semarang,1653524,Point(110.383333333 -7.033333333),Indonesia,Asia,Indonesian
+Bandung,2875673,Point(107.607083055 -6.921845833),Indonesia,Asia,Indonesian
+Makassar,1338663,Point(119.413611111 -5.133055555),Indonesia,Asia,Indonesian
+Palembang,1535952,Point(104.764444444 -2.983333333),Indonesia,Asia,Indonesian
+Batam,1196396,Point(104.053055555 1.13),Indonesia,Asia,Indonesian
+Medan,2109330,Point(98.673888888 3.589444444),Indonesia,Asia,Indonesian
+Depok,2330333,Point(106.8173077 -6.405031),Indonesia,Asia,Indonesian
+Bekasi,2381053,Point(107.0 -6.233333333),Indonesia,Asia,Indonesian
+Jakarta,11135191,Point(106.826944444 -6.175277777),Indonesia,Asia,Indonesian
+Bandar Lampung,1166761,Point(105.2625 -5.429444444),Indonesia,Asia,Indonesian
+Semarang,1621384,Point(110.4225 -6.99),Indonesia,Asia,Indonesian
+Surat,5935000,Point(72.84 21.205),India,Asia,Hindi
+Jodhpur,1033918,Point(73.027777777 26.294444444),India,Asia,Hindi
+Mumbai,15414288,Point(72.8775 19.075833333),India,Asia,Hindi
+Vadodara,3100260,Point(73.2 22.3),India,Asia,Hindi
+Rajkot,2043000,Point(70.798363888 22.296908333),India,Asia,Hindi
+Vadodara,2065771,Point(73.2 22.3),India,Asia,Hindi
+Thane,1886941,Point(72.963333333 19.18),India,Asia,Hindi
+Rajkot,2043000,Point(70.793333333 22.291666666),India,Asia,Hindi
+Islamabad,1014825,Point(73.036944444 33.698888888),Pakistan,Asia,Urdu
+Quetta,1001205,Point(67.017222222 30.195833333),Pakistan,Asia,Urdu
+Faisalabad,3203846,Point(73.079 31.418),Pakistan,Asia,Urdu
+Lahore,11126285,Point(74.343611111 31.549722222),Pakistan,Asia,Urdu
+Rawalpindi,2098231,Point(73.0679 33.6007),Pakistan,Asia,Urdu
+Peshawar,1970042,Point(71.5675 34.014444444),Pakistan,Asia,Urdu
+Multan,1871843,Point(71.471111111 30.197777777),Pakistan,Asia,Urdu
+Gujranwala,2027001,Point(74.183333333 32.15),Pakistan,Asia,Urdu
+Hyderabad,1732693,Point(68.368333333 25.379166666),Pakistan,Asia,Urdu
+Karachi,14910352,Point(67.01 24.86),Pakistan,Asia,Urdu
+Guwahati,1116267,Point(91.750238 26.1805876),India,Asia,Hindi
+Ahmedabad,7645000,Point(72.579722222 23.021944444),India,Asia,Hindi
+Gwalior,1069276,Point(78.1775 26.2125),India,Asia,Hindi
+Prayagraj,5954391,Point(81.85 25.45),India,Asia,Hindi
+Bhopal,1798218,Point(77.416666666 23.25),India,Asia,Hindi
+Kolkata,4496694,Point(88.37 22.5675),India,Asia,Hindi
+Bengaluru,12327000,Point(77.5912997 12.9791198),India,Asia,Hindi
+Pune,6200000,Point(73.855277777 18.521111111),India,Asia,Hindi
+Lucknow,3382000,Point(80.947 26.847),India,Asia,Hindi
+Navi Mumbai,1119477,Point(73.01 19.03),India,Asia,Hindi
+Ludhiana,1618879,Point(75.848611111 30.908333333),India,Asia,Hindi
+Aurangabad,1175116,Point(75.32 19.88),India,Asia,Hindi
+Madurai,1561129,Point(78.119394444 9.919661111),India,Asia,Hindi
+Meerut,1571434,Point(77.706388888 28.98),India,Asia,Hindi
+Kota,1001694,Point(75.83 25.18),India,Asia,Hindi
+Vijayawada,1048240,Point(80.616666666 16.516666666),India,Asia,Hindi
+Hyderabad,9305000,Point(78.474722222 17.361666666),India,Asia,Hindi
+Agra,1585705,Point(78.02 27.18),India,Asia,Hindi
+Jabalpur,1267564,Point(79.933333333 23.166666666),India,Asia,Hindi
+Nagpur,2405665,Point(79.080555555 21.149722222),India,Asia,Hindi
+Chandigarh,1055450,Point(76.788333333 30.736388888),India,Asia,Hindi
+Amritsar,1159227,Point(74.87704 31.626917),India,Asia,Hindi
+Nashik,1486053,Point(73.783333333 20.0),India,Asia,Hindi
+Amritsar,1132383,Point(74.87704 31.626917),India,Asia,Hindi
+Delhi,26495000,Point(77.216666666 28.666666666),India,Asia,Hindi
+Raipur,1010087,Point(81.6336833 21.2379468),India,Asia,Hindi
+Jamshedpur,1558000,Point(86.183333333 22.8),India,Asia,Hindi
+Varanasi,1198491,Point(83.012777777 25.318888888),India,Asia,Hindi
+Chennai,6599000,Point(80.275 13.0825),India,Asia,Hindi
+Kanpur,4581268,Point(80.331111111 26.4725),India,Asia,Hindi
+Patna,1684222,Point(85.141388888 25.61),India,Asia,Hindi
+Indore,1994397,Point(75.855 22.718611111),India,Asia,Hindi
+Howrah,1077075,Point(88.329444444 22.58),India,Asia,Hindi
+Jaipur,3073350,Point(75.82 26.915),India,Asia,Hindi
+Visakhapatnam,2035922,Point(83.292222222 17.693888888),India,Asia,Hindi
+Ghaziabad,2375820,Point(77.416666666 28.666666666),India,Asia,Hindi
+Vasai-Virar,1222390,Point(72.8 19.47),India,Asia,Hindi
+Srinagar,1180570,Point(74.806111111 34.091111111),India,Asia,Hindi
+Ranchi,1073440,Point(85.334722222 23.355555555),India,Asia,Hindi
+Faridabad,1404653,Point(77.31316 28.41124),India,Asia,Hindi
+Luanda,2487444,Point(13.234444444 -8.838333333),Angola,Africa,Portuguese
+Matola,1032197,Point(32.466666666 -25.966666666),Mozambique,Africa,Portuguese
+Maputo,1133200,Point(32.576388888 -25.915277777),Mozambique,Africa,Portuguese
+Kigali,1745555,Point(30.115 -1.9525),Rwanda,Africa,Swahili
+Kampala,1680600,Point(32.581111111 0.313611111),Uganda,Africa,Swahili
+Dar es Salaam,4715000,Point(39.280277777 -6.816111111),Tanzania,Africa,Swahili
+Nairobi,5545000,Point(36.817222222 -1.286388888),Kenya,Africa,English
+Queens,2405464,Point(-73.828055555 40.713611111),United States,North America,English
+Philadelphia,1603797,Point(-75.163611111 39.952777777),United States,North America,English
+Manhattan,1694251,Point(-73.994166666 40.728333333),United States,North America,English
+New York metropolitan area,19940274,Point(-74.020277777 40.808611111),United States,North America,English
+New York City,8804190,Point(-74.006111111 40.712777777),United States,North America,English
+Los Angeles,3898747,Point(-118.24368 34.05223),United States,North America,English
+Kumasi,3903480,Point(-1.625 6.7),Ghana,Africa,English
+Mombasa,1208333,Point(39.666666666 -4.05),Kenya,Africa,English
+Phoenix,1608139,Point(-112.073888888 33.448333333),United States,North America,English
+London,8799728,Point(-0.1275 51.507222222),United Kingdom,Europe,English
+Dallas,1304379,Point(-96.808888888 32.779166666),United States,North America,English
+Accra,1782150,Point(-0.1969 5.55602),Ghana,Africa,English
+The Bronx,1472654,Point(-73.873333333 40.846666666),United States,North America,English
+San Jose,1013240,Point(-121.872777777 37.304166666),United States,North America,English
+Birmingham,1137100,Point(-1.9025 52.48),United Kingdom,Europe,English
+Houston,2304580,Point(-95.383055555 29.762777777),United States,North America,English
+San Diego,1386932,Point(-117.1625 32.715),United States,North America,English
+Chicago,2746388,Point(-87.627777777 41.881944444),United States,North America,English
+Calgary,1306784,Point(-114.066666666 51.05),Canada,North America,English
+Islamabad,1014825,Point(73.036944444 33.698888888),Pakistan,Asia,English
+Mumbai,15414288,Point(72.8775 19.075833333),India,Asia,English
+Kolkata,4496694,Point(88.37 22.5675),India,Asia,English
+Quetta,1001205,Point(67.017222222 30.195833333),Pakistan,Asia,English
+Faisalabad,3203846,Point(73.079 31.418),Pakistan,Asia,English
+Lahore,11126285,Point(74.343611111 31.549722222),Pakistan,Asia,English
+Rawalpindi,2098231,Point(73.0679 33.6007),Pakistan,Asia,English
+El Paso–Juárez,2400000,Point(-106.48694444 31.73944444),United States,North America,English
+Montreal,1895211,Point(-73.5868411 45.5033426),Canada,North America,English
+Peshawar,1970042,Point(71.5675 34.014444444),Pakistan,Asia,English
+Multan,1871843,Point(71.471111111 30.197777777),Pakistan,Asia,English
+Toronto,2794356,Point(-79.386666666 43.670277777),Canada,North America,English
+Gujranwala,2027001,Point(74.183333333 32.15),Pakistan,Asia,English
+Hyderabad,1732693,Point(68.368333333 25.379166666),Pakistan,Asia,English
+Ottawa,1017449,Point(-75.695 45.424722222),Canada,North America,English
+Karachi,14910352,Point(67.01 24.86),Pakistan,Asia,English
+Montreal,1762949,Point(-73.5868411 45.5033426),Canada,North America,English
+El Paso–Juárez,2539946,Point(-106.48694444 31.73944444),United States,North America,English
+San Antonio,1434625,Point(-98.493888888 29.425),United States,North America,English
+Edmonton,1010899,Point(-113.5 53.533333333),Canada,North America,English
+Guwahati,1116267,Point(91.750238 26.1805876),India,Asia,English
+Ahmedabad,7645000,Point(72.579722222 23.021944444),India,Asia,English
+City of Tshwane Metropolitan Municipality,3275152,Point(28.333333333 -25.666666666),South Africa,Africa,English
+Surat,5935000,Point(72.84 21.205),India,Asia,English
+Cape Town,3776313,Point(18.423888888 -33.925277777),South Africa,Africa,English
+Gwalior,1069276,Point(78.1775 26.2125),India,Asia,English
+Jodhpur,1033918,Point(73.027777777 26.294444444),India,Asia,English
+Prayagraj,5954391,Point(81.85 25.45),India,Asia,English
+Nelson Mandela Bay Metropolitan Municipality,1152115,Point(25.6 -33.95),South Africa,Africa,English
+eThekwini Metropolitan Municipality,3702231,Point(31.016666666 -29.866666666),South Africa,Africa,English
+Bhopal,1798218,Point(77.416666666 23.25),India,Asia,English
+Bengaluru,12327000,Point(77.5912997 12.9791198),India,Asia,English
+Pune,6200000,Point(73.855277777 18.521111111),India,Asia,English
+Lucknow,3382000,Point(80.947 26.847),India,Asia,English
+Navi Mumbai,1119477,Point(73.01 19.03),India,Asia,English
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.31262 -26.1989),South Africa,Africa,English
+Ludhiana,1618879,Point(75.848611111 30.908333333),India,Asia,English
+Vadodara,3100260,Point(73.2 22.3),India,Asia,English
+City of Johannesburg Metropolitan Municipality,4949347,Point(28.040605722 -26.204970437),South Africa,Africa,English
+Aurangabad,1175116,Point(75.32 19.88),India,Asia,English
+Madurai,1561129,Point(78.119394444 9.919661111),India,Asia,English
+Johannesburg,4803262,Point(28.041638888 -26.204361111),South Africa,Africa,English
+eThekwini Metropolitan Municipality,3702231,Point(30.85062 -29.80547),South Africa,Africa,English
+City of Cape Town,3740026,Point(18.5 -34.0),South Africa,Africa,English
+Meerut,1571434,Point(77.706388888 28.98),India,Asia,English
+Kota,1001694,Point(75.83 25.18),India,Asia,English
+Vijayawada,1048240,Point(80.616666666 16.516666666),India,Asia,English
+Hyderabad,9305000,Point(78.474722222 17.361666666),India,Asia,English
+Agra,1585705,Point(78.02 27.18),India,Asia,English
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.333333333 -26.166666666),South Africa,Africa,English
+Jabalpur,1267564,Point(79.933333333 23.166666666),India,Asia,English
+Nagpur,2405665,Point(79.080555555 21.149722222),India,Asia,English
+Chandigarh,1055450,Point(76.788333333 30.736388888),India,Asia,English
+Rajkot,2043000,Point(70.798363888 22.296908333),India,Asia,English
+Amritsar,1159227,Point(74.87704 31.626917),India,Asia,English
+City of Tshwane Metropolitan Municipality,2921488,Point(28.333333333 -25.666666666),South Africa,Africa,English
+Nashik,1486053,Point(73.783333333 20.0),India,Asia,English
+Nelson Mandela Bay Metropolitan Municipality,1263051,Point(25.6 -33.95),South Africa,Africa,English
+Amritsar,1132383,Point(74.87704 31.626917),India,Asia,English
+City of Johannesburg Metropolitan Municipality,4434827,Point(28.040605722 -26.204970437),South Africa,Africa,English
+Delhi,26495000,Point(77.216666666 28.666666666),India,Asia,English
+Vadodara,2065771,Point(73.2 22.3),India,Asia,English
+Raipur,1010087,Point(81.6336833 21.2379468),India,Asia,English
+Jamshedpur,1558000,Point(86.183333333 22.8),India,Asia,English
+Varanasi,1198491,Point(83.012777777 25.318888888),India,Asia,English
+Chennai,6599000,Point(80.275 13.0825),India,Asia,English
+Kanpur,4581268,Point(80.331111111 26.4725),India,Asia,English
+Patna,1684222,Point(85.141388888 25.61),India,Asia,English
+Indore,1994397,Point(75.855 22.718611111),India,Asia,English
+Thane,1886941,Point(72.963333333 19.18),India,Asia,English
+Howrah,1077075,Point(88.329444444 22.58),India,Asia,English
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.31262 -26.1989),South Africa,Africa,English
+Jaipur,3073350,Point(75.82 26.915),India,Asia,English
+Visakhapatnam,2035922,Point(83.292222222 17.693888888),India,Asia,English
+Rajkot,2043000,Point(70.793333333 22.291666666),India,Asia,English
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.333333333 -26.166666666),South Africa,Africa,English
+Ghaziabad,2375820,Point(77.416666666 28.666666666),India,Asia,English
+Vasai-Virar,1222390,Point(72.8 19.47),India,Asia,English
+Srinagar,1180570,Point(74.806111111 34.091111111),India,Asia,English
+Soweto,1271628,Point(27.858611111 -26.267777777),South Africa,Africa,English
+Singapore,5866139,Point(103.8 1.3),Singapore,Asia,English
+Ranchi,1073440,Point(85.334722222 23.355555555),India,Asia,English
+Auckland,1470100,Point(174.765277777 -36.849166666),New Zealand,Oceania,English
+Faridabad,1404653,Point(77.31316 28.41124),India,Asia,English
+Antananarivo,1275207,Point(47.525 -18.91),Madagascar,Africa,Malagasy
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Uzbek
+Bangkok,5676648,Point(100.516666666 13.75),Thailand,Asia,Thai
+Chiang Mai,1198000,Point(98.983333333 18.788888888),Thailand,Asia,Thai
+Haiphong,2088020,Point(106.666666666 20.8),Vietnam,Asia,Vietnamese
+Hanoi,8246600,Point(105.84117 21.0245),Vietnam,Asia,Vietnamese
+Hanoi,7587800,Point(105.84117 21.0245),Vietnam,Asia,Vietnamese
+Da Nang,2819900,Point(108.209722222 16.069444444),Vietnam,Asia,Vietnamese
+Hanoi,7785000,Point(105.84117 21.0245),Vietnam,Asia,Vietnamese
+Cần Thơ,3207000,Point(105.5005357 10.1547298),Vietnam,Asia,Vietnamese
+Ho Chi Minh City,14002598,Point(106.701944444 10.775555555),Vietnam,Asia,Vietnamese
+Huế,1236393,Point(107.586666666 16.463888888),Vietnam,Asia,Vietnamese
+Hanoi,8435650,Point(105.84117 21.0245),Vietnam,Asia,Vietnamese
+Cần Thơ,1252300,Point(105.5005357 10.1547298),Vietnam,Asia,Vietnamese
+Cần Thơ,1237300,Point(105.5005357 10.1547298),Vietnam,Asia,Vietnamese
+Haiphong,2103500,Point(106.666666666 20.8),Vietnam,Asia,Vietnamese
+Da Nang,1007400,Point(108.209722222 16.069444444),Vietnam,Asia,Vietnamese
+Huế,1178600,Point(107.586666666 16.463888888),Vietnam,Asia,Vietnamese
+Hanoi,8717600,Point(105.84117 21.0245),Vietnam,Asia,Vietnamese
+Da Nang,1220200,Point(108.209722222 16.069444444),Vietnam,Asia,Vietnamese
+Da Nang,1220190,Point(108.209722222 16.069444444),Vietnam,Asia,Vietnamese
+Hanoi,8330800,Point(105.84117 21.0245),Vietnam,Asia,Vietnamese
+Cần Thơ,1252350,Point(105.5005357 10.1547298),Vietnam,Asia,Vietnamese
+Da Nang,1230847,Point(108.209722222 16.069444444),Vietnam,Asia,Vietnamese
+Haiphong,2124500,Point(106.666666666 20.8),Vietnam,Asia,Vietnamese
+Biên Hòa,1104000,Point(106.822136 10.950764),Vietnam,Asia,Vietnamese
+Thủ Đức,1013795,Point(106.724110667 10.864906308),Vietnam,Asia,Vietnamese
+Thủ Đức,1013795,Point(106.751784 10.792402),Vietnam,Asia,Vietnamese
+Incheon,3049315,Point(126.648611111 37.463888888),South Korea,Asia,Korean
+Seoul,9668465,Point(126.99 37.56),South Korea,Asia,Korean
+Busan,3453198,Point(129.075 35.18),South Korea,Asia,Korean
+Ulsan,1127553,Point(129.316666666 35.55),South Korea,Asia,Korean
+Gwangju,1409624,Point(126.916666666 35.166666666),South Korea,Asia,Korean
+Hwaseong,1004079,Point(126.766666666 37.2),South Korea,Asia,Korean
+Yongin,1084817,Point(127.201111111 37.236111111),South Korea,Asia,Korean
+Daegu,2444412,Point(128.601666666 35.871666666),South Korea,Asia,Korean
+Goyang,1061929,Point(126.835 37.656388888),South Korea,Asia,Korean
+Changwon,1009998,Point(128.681111111 35.228055555),South Korea,Asia,Korean
+Daejeon,1475221,Point(127.385 36.35),South Korea,Asia,Korean
+Gwangju,1490092,Point(126.916666666 35.166666666),South Korea,Asia,Korean
+Suwon,1234300,Point(127.01 37.285833333),South Korea,Asia,Korean
+Daegu,2376044,Point(128.601666666 35.871666666),South Korea,Asia,Korean
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Turkmen
+Ashgabat,1030063,Point(58.383333333 37.95),Turkmenistan,Asia,Turkmen
+Chittagong,2581643,Point(91.8325 22.335),Bangladesh,Asia,Bangla
+Chittagong,3230507,Point(91.8325 22.335),Bangladesh,Asia,Bangla
+Dhaka,16800000,Point(90.394444444 23.728888888),Bangladesh,Asia,Bangla
+Gazipur,2677715,Point(90.375 23.988888888),Bangladesh,Asia,Bangla
+Harare,2150000,Point(31.052222222 -17.829166666),Zimbabwe,Africa,Xhosa
+Masvingo,1638528,Point(30.832777777 -20.074444444),Zimbabwe,Africa,Xhosa
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Arabic
+Casablanca,3215935,Point(-7.62 33.599166666),Morocco,Africa,Arabic
+Harare,2150000,Point(31.052222222 -17.829166666),Zimbabwe,Africa,Ndau
+Sharjah,1247749,Point(55.411944444 25.3375),United Arab Emirates,Asia,Arabic
+Tripoli,1293016,Point(13.18746 32.87519),Libya,Africa,Arabic
+Abu Dhabi,1570000,Point(54.396944444 24.451111111),United Arab Emirates,Asia,Arabic
+Nouakchott,1446761,Point(-15.9785 18.08581),Mauritania,Africa,Arabic
+Dubai,3944751,Point(55.309444444 25.269722222),United Arab Emirates,Asia,Arabic
+Masvingo,1638528,Point(30.832777777 -20.074444444),Zimbabwe,Africa,Ndau
+Tangier,1275428,Point(-5.803888888 35.776666666),Morocco,Africa,Arabic
+Fez,1167842,Point(-5.003333333 34.043333333),Morocco,Africa,Arabic
+Marrakesh,1002697,Point(-7.98108 31.62947),Morocco,Africa,Arabic
+Pampas,44399835,Point(-74.8667 -12.3989),Peru,South America,Aymara
+Lima,9943800,Point(-77.0375 -12.06),Peru,South America,Aymara
+Arequipa,1008290,Point(-71.536944444 -16.398888888),Peru,South America,Aymara
+Santiago,6269384,Point(-72.443676 -12.6175153),Peru,South America,Aymara
+Santa Cruz de la Sierra,3151676,Point(-63.1975 -17.789166666),Bolivia,South America,Aymara
+Fortaleza,2578483,Point(-38.5275 -3.7275),Brazil,South America,Portuguese
+Nova Iguaçu,1297704,Point(-43.450833333 -22.758888888),Brazil,South America,Portuguese
+Curitiba,1773718,Point(-49.271944444 -25.429722222),Brazil,South America,Portuguese
+Salvador,2417678,Point(-38.492777777 -12.983055555),Brazil,South America,Portuguese
+Guarulhos,1324781,Point(-46.533333333 -23.466666666),Brazil,South America,Portuguese
+Belo Horizonte,2315560,Point(-43.941944444 -19.928055555),Brazil,South America,Portuguese
+Belém,1303403,Point(-48.503888888 -1.455833333),Brazil,South America,Portuguese
+São Luís,1037775,Point(-44.302777777 -2.53),Brazil,South America,Portuguese
+Rio de Janeiro,6211223,Point(-43.205555555 -22.911111111),Brazil,South America,Portuguese
+Nova Iguaçu,1094789,Point(-43.450833333 -22.758888888),Brazil,South America,Portuguese
+Lagos,8048430,Point(-8.67422 37.10202),Portugal,Europe,Portuguese
+Recife,1488920,Point(-34.880833333 -8.053888888),Brazil,South America,Portuguese
+Manaus,2303732,Point(-60.021666666 -3.118888888),Brazil,South America,Portuguese
+Porto Alegre,1388794,Point(-51.23 -30.032777777),Brazil,South America,Portuguese
+Brasília,2996899,Point(-47.882777777 -15.793888888),Brazil,South America,Portuguese
+Campinas,1213792,Point(-47.057294444 -22.900913888),Brazil,South America,Portuguese
+Goiânia,1437366,Point(-49.256388888 -16.680555555),Brazil,South America,Portuguese
+São Paulo,11451999,Point(-46.633947222 -23.550394444),Brazil,South America,Portuguese
+Greater Rio de Janeiro,11900000,Point(-43.2078 -22.9028),Brazil,South America,Portuguese
+Pampas,44399835,Point(-74.8667 -12.3989),Peru,South America,Quechua
+Lima,9943800,Point(-77.0375 -12.06),Peru,South America,Quechua
+Arequipa,1008290,Point(-71.536944444 -16.398888888),Peru,South America,Quechua
+Santiago,6269384,Point(-72.443676 -12.6175153),Peru,South America,Quechua
+Santa Cruz de la Sierra,3151676,Point(-63.1975 -17.789166666),Bolivia,South America,Quechua
+Harare,2150000,Point(31.052222222 -17.829166666),Zimbabwe,Africa,Venda
+Ouagadougou,2453496,Point(-1.5275 12.368611111),Burkina Faso,Africa,Dioula
+Masvingo,1638528,Point(30.832777777 -20.074444444),Zimbabwe,Africa,Venda
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Balochi
+Ouagadougou,2453496,Point(-1.5275 12.368611111),Burkina Faso,Africa,Bissa
+Singapore,5866139,Point(103.8 1.3),Singapore,Asia,Tamil
+Harare,2150000,Point(31.052222222 -17.829166666),Zimbabwe,Africa,Chewa
+Masvingo,1638528,Point(30.832777777 -20.074444444),Zimbabwe,Africa,Chewa
+Kawasaki,1539522,Point(139.703 35.530888888),Japan,Asia,Japanese
+Hiroshima,1198021,Point(132.455305555 34.38525),Japan,Asia,Japanese
+Sapporo,1959313,Point(141.354444444 43.061944444),Japan,Asia,Japanese
+Fukuoka,1603043,Point(130.401666666 33.59),Japan,Asia,Japanese
+Nagoya,2326844,Point(136.90641 35.18147),Japan,Asia,Japanese
+Osaka,2751862,Point(135.502111111 34.69375),Japan,Asia,Japanese
+Sendai,1061177,Point(140.869416666 38.268222222),Japan,Asia,Japanese
+Kobe,1521707,Point(135.195444444 34.690166666),Japan,Asia,Japanese
+Saitama,1325843,Point(139.645555555 35.861388888),Japan,Asia,Japanese
+Kyoto,1463723,Point(135.768111111 35.011611111),Japan,Asia,Japanese
+Tokyo,9640742,Point(139.774444 35.683889),Japan,Asia,Japanese
+Yokohama,3757630,Point(139.634222222 35.450333333),Japan,Asia,Japanese
+Nagoya,2326844,Point(136.906388888 35.181388888),Japan,Asia,Japanese
+Tokyo,14264798,Point(139.691666666 35.689444444),Japan,Asia,Japanese
+Bamako,4227569,Point(-7.992222222 12.645833333),Mali,Africa,Bambara
+Kigali,1745555,Point(30.115 -1.9525),Rwanda,Africa,Kinyarwanda
+Zamboanga City,1018849,Point(122.076111111 6.904166666),Philippines,Asia,Filipino
+Quezon City,3084270,Point(121.0475 14.65),Philippines,Asia,Filipino
+Davao City,1848947,Point(125.609441666 7.066233333),Philippines,Asia,Filipino
+Taguig,1308085,Point(121.05 14.516666666),Philippines,Asia,Filipino
+Metro Manila,14001751,Point(121.0 14.583333333),Philippines,Asia,Filipino
+Manila,1902590,Point(120.977222222 14.595833333),Philippines,Asia,Filipino
+Caloocan,1712945,Point(120.966666666 14.65),Philippines,Asia,Filipino
+Brussels-Capital Region,1255795,Point(4.3525 50.846666666),Belgium,Europe,Dutch
+Bamako,4227569,Point(-7.992222222 12.645833333),Mali,Africa,Fula
+Yekaterinburg,1468833,Point(60.612777777 56.835555555),Russia,Europe,Russian
+Moscow,13274285,Point(37.6175 55.750555555),Russia,Europe,Russian
+Harare,2150000,Point(31.052222222 -17.829166666),Zimbabwe,Africa,Shona
+Krasnoyarsk,1092851,Point(92.871944444 56.008888888),Russia,Europe,Russian
+Samara,1154223,Point(50.116666666 53.183333333),Russia,Europe,Russian
+Nizhny Novgorod,1198245,Point(44.0075 56.326944444),Russia,Europe,Russian
+Ufa,1144809,Point(55.9475 54.726111111),Russia,Europe,Russian
+Voronezh,1041722,Point(39.210555555 51.671666666),Russia,Europe,Russian
+Kazan,1329825,Point(49.114444444 55.790833333),Russia,Europe,Russian
+Rostov-on-Don,1143123,Point(39.71 47.2225),Russia,Europe,Russian
+Volgograd,1012219,Point(44.514722222 48.708611111),Russia,Europe,Russian
+Perm,1027518,Point(56.248888888 58.013888888),Russia,Europe,Russian
+Novosibirsk,1637266,Point(82.916666666 55.033333333),Russia,Europe,Russian
+Saint Petersburg,5652922,Point(30.316666666 59.95),Russia,Europe,Russian
+Krasnodar,1154885,Point(38.983333333 45.033333333),Russia,Europe,Russian
+Masvingo,1638528,Point(30.832777777 -20.074444444),Zimbabwe,Africa,Shona
+Omsk,1101367,Point(73.383333333 54.966666666),Russia,Europe,Russian
+Chelyabinsk,1176770,Point(61.4 55.15),Russia,Europe,Russian
+Harare,2150000,Point(31.052222222 -17.829166666),Zimbabwe,Africa,Tonga
+Harare,2150000,Point(31.052222222 -17.829166666),Zimbabwe,Africa,Tswana
+Masvingo,1638528,Point(30.832777777 -20.074444444),Zimbabwe,Africa,Tonga
+Masvingo,1638528,Point(30.832777777 -20.074444444),Zimbabwe,Africa,Tswana
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Pashto
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Bunun
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Bunun
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Bunun
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Bunun
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Bunun
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Bunun
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Bunun
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Bunun
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Bunun
+Harare,2150000,Point(31.052222222 -17.829166666),Zimbabwe,Africa,Tsonga
+Masvingo,1638528,Point(30.832777777 -20.074444444),Zimbabwe,Africa,Tsonga
+Nairobi,5545000,Point(36.817222222 -1.286388888),Kenya,Africa,Swahili
+Mombasa,1208333,Point(39.666666666 -4.05),Kenya,Africa,Swahili
+Phnom Penh,2129371,Point(104.921027777 11.569583333),Cambodia,Asia,Khmer
+Harare,2150000,Point(31.052222222 -17.829166666),Zimbabwe,Africa,Khoisan
+Masvingo,1638528,Point(30.832777777 -20.074444444),Zimbabwe,Africa,Khoisan
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Pashayi
+Bamako,4227569,Point(-7.992222222 12.645833333),Mali,Africa,Kassonke
+Yerevan,1106300,Point(44.514444444 40.181388888),Armenia,Asia,Armenian
+Harare,2150000,Point(31.052222222 -17.829166666),Zimbabwe,Africa,Sesotho
+Bamako,4227569,Point(-7.992222222 12.645833333),Mali,Africa,Maninka
+Bamako,4227569,Point(-7.992222222 12.645833333),Mali,Africa,Minyanka
+Bamako,4227569,Point(-7.992222222 12.645833333),Mali,Africa,Soninke
+Pikine,1170791,Point(-17.402055555 14.744),Senegal,Africa,Wolof
+Dakar,1438725,Point(-17.432 14.672555555),Senegal,Africa,Wolof
+Masvingo,1638528,Point(30.832777777 -20.074444444),Zimbabwe,Africa,Sesotho
+Bamako,4227569,Point(-7.992222222 12.645833333),Mali,Africa,Bozo
+Niamey,1496260,Point(2.1175 13.515),Niger,Africa,Hausa
+Harare,2150000,Point(31.052222222 -17.829166666),Zimbabwe,Africa,Kalanga
+Bamako,4227569,Point(-7.992222222 12.645833333),Mali,Africa,Senufo
+Masvingo,1638528,Point(30.832777777 -20.074444444),Zimbabwe,Africa,Kalanga
+Budapest,1685209,Point(19.040833333 47.498333333),Hungary,Europe,Hungarian
+Pyongyang,2863000,Point(125.7475 39.016666666),North Korea,Asia,Korean
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Rukai
+Bamako,4227569,Point(-7.992222222 12.645833333),Mali,Africa,Hassaniya Arabic
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Rukai
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Rukai
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Rukai
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Rukai
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Rukai
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Rukai
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Rukai
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Rukai
+Kuala Lumpur,9000280,Point(101.695277777 3.147777777),Malaysia,Asia,Malay
+Singapore,5866139,Point(103.8 1.3),Singapore,Asia,Malay
+City of Belgrade,1681405,Point(20.46666668 44.81666668),Serbia,Europe,Serbian
+City of Belgrade,1659440,Point(20.46666668 44.81666668),Serbia,Europe,Serbian
+Belgrade,1197714,Point(20.456944444 44.817777777),Serbia,Europe,Serbian
+Yangon,6874000,Point(96.15611 16.80528),Myanmar,Asia,Burmese
+Mandalay,1225546,Point(96.08359 21.97473),Myanmar,Asia,Burmese
+Yangon,6874000,Point(96.16 16.795),Myanmar,Asia,Burmese
+Mandalay,1225546,Point(96.084444444 21.983055555),Myanmar,Asia,Burmese
+Naypyidaw,1160242,Point(96.115 19.7475),Myanmar,Asia,Burmese
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Nuristani
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Dari
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Kanakanavu
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Kanakanavu
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Kanakanavu
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Kanakanavu
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Kanakanavu
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Kanakanavu
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Kanakanavu
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Kanakanavu
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Kanakanavu
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Standard Taiwanese Mandarin
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Standard Taiwanese Mandarin
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Standard Taiwanese Mandarin
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Standard Taiwanese Mandarin
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Standard Taiwanese Mandarin
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Standard Taiwanese Mandarin
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Standard Taiwanese Mandarin
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Standard Taiwanese Mandarin
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Standard Taiwanese Mandarin
+Harare,2150000,Point(31.052222222 -17.829166666),Zimbabwe,Africa,Northern Ndebele
+Ouagadougou,2453496,Point(-1.5275 12.368611111),Burkina Faso,Africa,Mooré
+Masvingo,1638528,Point(30.832777777 -20.074444444),Zimbabwe,Africa,Northern Ndebele
+Tashkent,2956384,Point(69.279722222 41.311111111),Uzbekistan,Asia,Uzbek
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Seediq
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Puyuma
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Seediq
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Puyuma
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Seediq
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Puyuma
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Seediq
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Puyuma
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Seediq
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Puyuma
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Seediq
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Puyuma
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Seediq
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Puyuma
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Seediq
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Puyuma
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Seediq
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Puyuma
+City of Tshwane Metropolitan Municipality,3275152,Point(28.333333333 -25.666666666),South Africa,Africa,Zulu
+Cape Town,3776313,Point(18.423888888 -33.925277777),South Africa,Africa,Zulu
+Nelson Mandela Bay Metropolitan Municipality,1152115,Point(25.6 -33.95),South Africa,Africa,Zulu
+eThekwini Metropolitan Municipality,3702231,Point(31.016666666 -29.866666666),South Africa,Africa,Zulu
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.31262 -26.1989),South Africa,Africa,Zulu
+City of Johannesburg Metropolitan Municipality,4949347,Point(28.040605722 -26.204970437),South Africa,Africa,Zulu
+Johannesburg,4803262,Point(28.041638888 -26.204361111),South Africa,Africa,Zulu
+eThekwini Metropolitan Municipality,3702231,Point(30.85062 -29.80547),South Africa,Africa,Zulu
+City of Cape Town,3740026,Point(18.5 -34.0),South Africa,Africa,Zulu
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.333333333 -26.166666666),South Africa,Africa,Zulu
+City of Tshwane Metropolitan Municipality,2921488,Point(28.333333333 -25.666666666),South Africa,Africa,Zulu
+Nelson Mandela Bay Metropolitan Municipality,1263051,Point(25.6 -33.95),South Africa,Africa,Zulu
+City of Johannesburg Metropolitan Municipality,4434827,Point(28.040605722 -26.204970437),South Africa,Africa,Zulu
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.31262 -26.1989),South Africa,Africa,Zulu
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.333333333 -26.166666666),South Africa,Africa,Zulu
+Soweto,1271628,Point(27.858611111 -26.267777777),South Africa,Africa,Zulu
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Saisiyat
+Bamako,4227569,Point(-7.992222222 12.645833333),Mali,Africa,Dogon
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Saisiyat
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Saisiyat
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Saisiyat
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Saisiyat
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Saisiyat
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Saisiyat
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Saisiyat
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Saisiyat
+Monterrey,1142952,Point(-100.318055555 25.684444444),Mexico,North America,Yucatec Maya
+Greater Mexico City,21905000,Point(-99.133158333 19.432519444),Mexico,North America,Yucatec Maya
+Guadalajara,1385621,Point(-103.342222222 20.676388888),Mexico,North America,Yucatec Maya
+Tijuana,1964788,Point(-117.037155 32.536447),Mexico,North America,Yucatec Maya
+Mexico City,9209944,Point(-99.13589 19.353773),Mexico,North America,Yucatec Maya
+Ciudad Juárez,1512450,Point(-106.42 31.6685),Mexico,North America,Yucatec Maya
+Zapopan,1257547,Point(-103.391111111 20.720833333),Mexico,North America,Yucatec Maya
+El Paso–Juárez,2400000,Point(-106.48694444 31.73944444),Mexico,North America,Yucatec Maya
+San Luis Potosí,2822255,Point(-100.975 22.149722222),Mexico,North America,Yucatec Maya
+Ciudad Juárez,1321004,Point(-106.42 31.6685),Mexico,North America,Yucatec Maya
+El Paso–Juárez,2539946,Point(-106.48694444 31.73944444),Mexico,North America,Yucatec Maya
+Veracruz,8062579,Point(-96.153333333 19.190277777),Mexico,North America,Yucatec Maya
+León de Los Aldama,1579803,Point(-101.683333333 21.121944444),Mexico,North America,Yucatec Maya
+Ahvaz,1184788,Point(48.684166666 31.318888888),Iran,Asia,Persian
+Ulaanbaatar,1396288,Point(106.905515 47.921357),Mongolia,Asia,Mongolian
+Isfahan,1961260,Point(51.675 32.6525),Iran,Asia,Persian
+Tehran,8693706,Point(51.389722222 35.688888888),Iran,Asia,Persian
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Yami
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Atayal
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Saaroa
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Kavalan
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Tsou
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Yami
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Atayal
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Saaroa
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Kavalan
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Tsou
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Yami
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Atayal
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Saaroa
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Kavalan
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Tsou
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Yami
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Atayal
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Saaroa
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Kavalan
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Tsou
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Yami
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Atayal
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Saaroa
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Kavalan
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Tsou
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Yami
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Atayal
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Saaroa
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Kavalan
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Tsou
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Yami
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Atayal
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Saaroa
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Kavalan
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Tsou
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Yami
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Atayal
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Saaroa
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Kavalan
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Tsou
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Yami
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Atayal
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Saaroa
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Kavalan
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Tsou
+City of Tshwane Metropolitan Municipality,3275152,Point(28.333333333 -25.666666666),South Africa,Africa,Xhosa
+Kabul,5333284,Point(69.165833333 34.532777777),Afghanistan,Asia,Pamir
+Cape Town,3776313,Point(18.423888888 -33.925277777),South Africa,Africa,Xhosa
+Nelson Mandela Bay Metropolitan Municipality,1152115,Point(25.6 -33.95),South Africa,Africa,Xhosa
+eThekwini Metropolitan Municipality,3702231,Point(31.016666666 -29.866666666),South Africa,Africa,Xhosa
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Taiwanese Hakka
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Paiwan
+Casablanca,3215935,Point(-7.62 33.599166666),Morocco,Africa,Standard Moroccan Tamazight
+Harare,2150000,Point(31.052222222 -17.829166666),Zimbabwe,Africa,Zimbabwe Sign Language
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.31262 -26.1989),South Africa,Africa,Xhosa
+Bamako,4227569,Point(-7.992222222 12.645833333),Mali,Africa,Tamasheq
+Bamako,4227569,Point(-7.992222222 12.645833333),Mali,Africa,Songhay
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Taiwanese Hakka
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Paiwan
+City of Johannesburg Metropolitan Municipality,4949347,Point(28.040605722 -26.204970437),South Africa,Africa,Xhosa
+Johannesburg,4803262,Point(28.041638888 -26.204361111),South Africa,Africa,Xhosa
+eThekwini Metropolitan Municipality,3702231,Point(30.85062 -29.80547),South Africa,Africa,Xhosa
+City of Cape Town,3740026,Point(18.5 -34.0),South Africa,Africa,Xhosa
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Taiwanese Hakka
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Paiwan
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Taiwanese Hakka
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Paiwan
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.333333333 -26.166666666),South Africa,Africa,Xhosa
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Taiwanese Hakka
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Paiwan
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Taiwanese Hakka
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Paiwan
+City of Tshwane Metropolitan Municipality,2921488,Point(28.333333333 -25.666666666),South Africa,Africa,Xhosa
+Nelson Mandela Bay Metropolitan Municipality,1263051,Point(25.6 -33.95),South Africa,Africa,Xhosa
+Lagos,8048430,Point(-8.67422 37.10202),Portugal,Europe,Mirandese
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Taiwanese Hakka
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Paiwan
+City of Johannesburg Metropolitan Municipality,4434827,Point(28.040605722 -26.204970437),South Africa,Africa,Xhosa
+Conakry,1667864,Point(-13.712222222 9.509166666),Guinea,Africa,languages of Guinea
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Taiwanese Hakka
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Paiwan
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Taiwanese Hakka
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Paiwan
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.31262 -26.1989),South Africa,Africa,Xhosa
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.333333333 -26.166666666),South Africa,Africa,Xhosa
+Masvingo,1638528,Point(30.832777777 -20.074444444),Zimbabwe,Africa,Zimbabwe Sign Language
+Soweto,1271628,Point(27.858611111 -26.267777777),South Africa,Africa,Xhosa
+Tangier,1275428,Point(-5.803888888 35.776666666),Morocco,Africa,Standard Moroccan Tamazight
+Fez,1167842,Point(-5.003333333 34.043333333),Morocco,Africa,Standard Moroccan Tamazight
+Marrakesh,1002697,Point(-7.98108 31.62947),Morocco,Africa,Standard Moroccan Tamazight
+New Cairo,1500000,Point(31.47 30.03),Egypt,Africa,Arabic
+Jeddah,4697000,Point(39.172777777 21.542777777),Saudi Arabia,Asia,Arabic
+Amman,4007526,Point(35.933333333 31.95),Jordan,Asia,Arabic
+Shobra Elkhema,1025569,Point(31.242222222 30.128611111),Egypt,Africa,Arabic
+Alexandria,5362517,Point(29.8925 31.1975),Egypt,Africa,Arabic
+N'Djamena,1092066,Point(15.05 12.11),Chad,Africa,Arabic
+Damascus,2685360,Point(36.291944444 33.513055555),Syria,Asia,Arabic
+Riyadh,7009100,Point(46.71 24.65),Saudi Arabia,Asia,Arabic
+Doha,1186023,Point(51.529444444 25.286111111),Qatar,Asia,Arabic
+Basra,1326564,Point(47.81 30.515),Iraq,Asia,Arabic
+Aden,1154410,Point(45.033333333 12.8),Yemen,Asia,Arabic
+Sanaa,2957000,Point(44.2 15.35),Yemen,Asia,Arabic
+Irbid,1911600,Point(35.85 32.555555555),Jordan,Asia,Arabic
+Giza,4458135,Point(31.2118 29.987),Egypt,Africa,Arabic
+Beirut,2421354,Point(35.513055555 33.886944444),Lebanon,Asia,Arabic
+Kuwait City,2989000,Point(47.98 29.375),Kuwait,Asia,Arabic
+Mosul,1792000,Point(43.116666666 36.366666666),Iraq,Asia,Arabic
+Muscat,1421409,Point(58.592222222 23.613888888),Oman,Asia,Arabic
+Cairo,9801536,Point(31.235833333 30.044444444),Egypt,Africa,Arabic
+Aleppo,2003671,Point(37.16 36.2),Syria,Asia,Arabic
+Algiers,2364230,Point(3.058611111 36.776388888),Algeria,Africa,Arabic
+Medina,1411599,Point(39.61 24.47),Saudi Arabia,Asia,Arabic
+Baghdad,8126755,Point(44.366111111 33.315277777),Iraq,Asia,Arabic
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Truku
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Matsu dialect
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Kinmen dialect
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Wuqiu dialect
+Harare,2150000,Point(31.052222222 -17.829166666),Zimbabwe,Africa,Barwe
+Bamako,4227569,Point(-7.992222222 12.645833333),Mali,Africa,Bobo
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Truku
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Matsu dialect
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Kinmen dialect
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Wuqiu dialect
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Truku
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Matsu dialect
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Kinmen dialect
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Wuqiu dialect
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Truku
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Matsu dialect
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Kinmen dialect
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Wuqiu dialect
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Truku
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Matsu dialect
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Kinmen dialect
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Wuqiu dialect
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Truku
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Matsu dialect
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Kinmen dialect
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Wuqiu dialect
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Truku
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Matsu dialect
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Kinmen dialect
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Wuqiu dialect
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Truku
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Matsu dialect
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Kinmen dialect
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Wuqiu dialect
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Truku
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Matsu dialect
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Kinmen dialect
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Wuqiu dialect
+Masvingo,1638528,Point(30.832777777 -20.074444444),Zimbabwe,Africa,Barwe
+Zamboanga City,1018849,Point(122.076111111 6.904166666),Philippines,Asia,Taglish
+Incheon,3049315,Point(126.648611111 37.463888888),South Korea,Asia,Korean Sign Language
+Seoul,9668465,Point(126.99 37.56),South Korea,Asia,Korean Sign Language
+Harare,2150000,Point(31.052222222 -17.829166666),Zimbabwe,Africa,Nambya
+Quezon City,3084270,Point(121.0475 14.65),Philippines,Asia,Taglish
+Busan,3453198,Point(129.075 35.18),South Korea,Asia,Korean Sign Language
+Ulsan,1127553,Point(129.316666666 35.55),South Korea,Asia,Korean Sign Language
+Davao City,1848947,Point(125.609441666 7.066233333),Philippines,Asia,Taglish
+Gwangju,1409624,Point(126.916666666 35.166666666),South Korea,Asia,Korean Sign Language
+Hwaseong,1004079,Point(126.766666666 37.2),South Korea,Asia,Korean Sign Language
+Yongin,1084817,Point(127.201111111 37.236111111),South Korea,Asia,Korean Sign Language
+Daegu,2444412,Point(128.601666666 35.871666666),South Korea,Asia,Korean Sign Language
+Taguig,1308085,Point(121.05 14.516666666),Philippines,Asia,Taglish
+Metro Manila,14001751,Point(121.0 14.583333333),Philippines,Asia,Taglish
+Goyang,1061929,Point(126.835 37.656388888),South Korea,Asia,Korean Sign Language
+Manila,1902590,Point(120.977222222 14.595833333),Philippines,Asia,Taglish
+Changwon,1009998,Point(128.681111111 35.228055555),South Korea,Asia,Korean Sign Language
+Daejeon,1475221,Point(127.385 36.35),South Korea,Asia,Korean Sign Language
+Bishkek,1191000,Point(74.566666666 42.866666666),Kyrgyzstan,Asia,Kyrgyz
+Gwangju,1490092,Point(126.916666666 35.166666666),South Korea,Asia,Korean Sign Language
+Suwon,1234300,Point(127.01 37.285833333),South Korea,Asia,Korean Sign Language
+Caloocan,1712945,Point(120.966666666 14.65),Philippines,Asia,Taglish
+Masvingo,1638528,Point(30.832777777 -20.074444444),Zimbabwe,Africa,Nambya
+Daegu,2376044,Point(128.601666666 35.871666666),South Korea,Asia,Korean Sign Language
+Monterrey,1142952,Point(-100.318055555 25.684444444),Mexico,North America,Nahuatl
+Greater Mexico City,21905000,Point(-99.133158333 19.432519444),Mexico,North America,Nahuatl
+Guadalajara,1385621,Point(-103.342222222 20.676388888),Mexico,North America,Nahuatl
+Tijuana,1964788,Point(-117.037155 32.536447),Mexico,North America,Nahuatl
+Mexico City,9209944,Point(-99.13589 19.353773),Mexico,North America,Nahuatl
+Ciudad Juárez,1512450,Point(-106.42 31.6685),Mexico,North America,Nahuatl
+Zapopan,1257547,Point(-103.391111111 20.720833333),Mexico,North America,Nahuatl
+El Paso–Juárez,2400000,Point(-106.48694444 31.73944444),Mexico,North America,Nahuatl
+San Luis Potosí,2822255,Point(-100.975 22.149722222),Mexico,North America,Nahuatl
+Ciudad Juárez,1321004,Point(-106.42 31.6685),Mexico,North America,Nahuatl
+El Paso–Juárez,2539946,Point(-106.48694444 31.73944444),Mexico,North America,Nahuatl
+Veracruz,8062579,Point(-96.153333333 19.190277777),Mexico,North America,Nahuatl
+León de Los Aldama,1579803,Point(-101.683333333 21.121944444),Mexico,North America,Nahuatl
+City of Tshwane Metropolitan Municipality,3275152,Point(28.333333333 -25.666666666),South Africa,Africa,Afrikaans
+Cape Town,3776313,Point(18.423888888 -33.925277777),South Africa,Africa,Afrikaans
+Nelson Mandela Bay Metropolitan Municipality,1152115,Point(25.6 -33.95),South Africa,Africa,Afrikaans
+eThekwini Metropolitan Municipality,3702231,Point(31.016666666 -29.866666666),South Africa,Africa,Afrikaans
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.31262 -26.1989),South Africa,Africa,Afrikaans
+City of Johannesburg Metropolitan Municipality,4949347,Point(28.040605722 -26.204970437),South Africa,Africa,Afrikaans
+Johannesburg,4803262,Point(28.041638888 -26.204361111),South Africa,Africa,Afrikaans
+eThekwini Metropolitan Municipality,3702231,Point(30.85062 -29.80547),South Africa,Africa,Afrikaans
+City of Cape Town,3740026,Point(18.5 -34.0),South Africa,Africa,Afrikaans
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.333333333 -26.166666666),South Africa,Africa,Afrikaans
+City of Tshwane Metropolitan Municipality,2921488,Point(28.333333333 -25.666666666),South Africa,Africa,Afrikaans
+Nelson Mandela Bay Metropolitan Municipality,1263051,Point(25.6 -33.95),South Africa,Africa,Afrikaans
+City of Johannesburg Metropolitan Municipality,4434827,Point(28.040605722 -26.204970437),South Africa,Africa,Afrikaans
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.31262 -26.1989),South Africa,Africa,Afrikaans
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.333333333 -26.166666666),South Africa,Africa,Afrikaans
+Soweto,1271628,Point(27.858611111 -26.267777777),South Africa,Africa,Afrikaans
+City of Tshwane Metropolitan Municipality,3275152,Point(28.333333333 -25.666666666),South Africa,Africa,Venda
+Cape Town,3776313,Point(18.423888888 -33.925277777),South Africa,Africa,Venda
+Nelson Mandela Bay Metropolitan Municipality,1152115,Point(25.6 -33.95),South Africa,Africa,Venda
+eThekwini Metropolitan Municipality,3702231,Point(31.016666666 -29.866666666),South Africa,Africa,Venda
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.31262 -26.1989),South Africa,Africa,Venda
+City of Johannesburg Metropolitan Municipality,4949347,Point(28.040605722 -26.204970437),South Africa,Africa,Venda
+Johannesburg,4803262,Point(28.041638888 -26.204361111),South Africa,Africa,Venda
+eThekwini Metropolitan Municipality,3702231,Point(30.85062 -29.80547),South Africa,Africa,Venda
+City of Cape Town,3740026,Point(18.5 -34.0),South Africa,Africa,Venda
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.333333333 -26.166666666),South Africa,Africa,Venda
+City of Tshwane Metropolitan Municipality,2921488,Point(28.333333333 -25.666666666),South Africa,Africa,Venda
+Nelson Mandela Bay Metropolitan Municipality,1263051,Point(25.6 -33.95),South Africa,Africa,Venda
+City of Johannesburg Metropolitan Municipality,4434827,Point(28.040605722 -26.204970437),South Africa,Africa,Venda
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.31262 -26.1989),South Africa,Africa,Venda
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.333333333 -26.166666666),South Africa,Africa,Venda
+Soweto,1271628,Point(27.858611111 -26.267777777),South Africa,Africa,Venda
+Sydney,5450496,Point(151.21 -33.867777777),Australia,Oceania,Auslan
+Adelaide,1387290,Point(138.6 -34.9275),Australia,Oceania,Auslan
+Perth,2141834,Point(115.859722222 -31.955833333),Australia,Oceania,Auslan
+Pyongyang,2863000,Point(125.7475 39.016666666),North Korea,Asia,North Korean standard language
+Melbourne,5350705,Point(144.963055555 -37.814166666),Australia,Oceania,Auslan
+Brisbane,2706966,Point(153.027777777 -27.467777777),Australia,Oceania,Auslan
+City of Tshwane Metropolitan Municipality,3275152,Point(28.333333333 -25.666666666),South Africa,Africa,Northern Sotho
+Cape Town,3776313,Point(18.423888888 -33.925277777),South Africa,Africa,Northern Sotho
+Nelson Mandela Bay Metropolitan Municipality,1152115,Point(25.6 -33.95),South Africa,Africa,Northern Sotho
+eThekwini Metropolitan Municipality,3702231,Point(31.016666666 -29.866666666),South Africa,Africa,Northern Sotho
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.31262 -26.1989),South Africa,Africa,Northern Sotho
+City of Johannesburg Metropolitan Municipality,4949347,Point(28.040605722 -26.204970437),South Africa,Africa,Northern Sotho
+Johannesburg,4803262,Point(28.041638888 -26.204361111),South Africa,Africa,Northern Sotho
+eThekwini Metropolitan Municipality,3702231,Point(30.85062 -29.80547),South Africa,Africa,Northern Sotho
+City of Cape Town,3740026,Point(18.5 -34.0),South Africa,Africa,Northern Sotho
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.333333333 -26.166666666),South Africa,Africa,Northern Sotho
+City of Tshwane Metropolitan Municipality,2921488,Point(28.333333333 -25.666666666),South Africa,Africa,Northern Sotho
+Nelson Mandela Bay Metropolitan Municipality,1263051,Point(25.6 -33.95),South Africa,Africa,Northern Sotho
+City of Johannesburg Metropolitan Municipality,4434827,Point(28.040605722 -26.204970437),South Africa,Africa,Northern Sotho
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.31262 -26.1989),South Africa,Africa,Northern Sotho
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.333333333 -26.166666666),South Africa,Africa,Northern Sotho
+Soweto,1271628,Point(27.858611111 -26.267777777),South Africa,Africa,Northern Sotho
+City of Tshwane Metropolitan Municipality,3275152,Point(28.333333333 -25.666666666),South Africa,Africa,Tsonga
+Cape Town,3776313,Point(18.423888888 -33.925277777),South Africa,Africa,Tsonga
+Nelson Mandela Bay Metropolitan Municipality,1152115,Point(25.6 -33.95),South Africa,Africa,Tsonga
+eThekwini Metropolitan Municipality,3702231,Point(31.016666666 -29.866666666),South Africa,Africa,Tsonga
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.31262 -26.1989),South Africa,Africa,Tsonga
+City of Johannesburg Metropolitan Municipality,4949347,Point(28.040605722 -26.204970437),South Africa,Africa,Tsonga
+Johannesburg,4803262,Point(28.041638888 -26.204361111),South Africa,Africa,Tsonga
+eThekwini Metropolitan Municipality,3702231,Point(30.85062 -29.80547),South Africa,Africa,Tsonga
+City of Cape Town,3740026,Point(18.5 -34.0),South Africa,Africa,Tsonga
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.333333333 -26.166666666),South Africa,Africa,Tsonga
+City of Tshwane Metropolitan Municipality,2921488,Point(28.333333333 -25.666666666),South Africa,Africa,Tsonga
+Nelson Mandela Bay Metropolitan Municipality,1263051,Point(25.6 -33.95),South Africa,Africa,Tsonga
+City of Johannesburg Metropolitan Municipality,4434827,Point(28.040605722 -26.204970437),South Africa,Africa,Tsonga
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.31262 -26.1989),South Africa,Africa,Tsonga
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.333333333 -26.166666666),South Africa,Africa,Tsonga
+Soweto,1271628,Point(27.858611111 -26.267777777),South Africa,Africa,Tsonga
+City of Tshwane Metropolitan Municipality,3275152,Point(28.333333333 -25.666666666),South Africa,Africa,Sesotho
+Cape Town,3776313,Point(18.423888888 -33.925277777),South Africa,Africa,Sesotho
+Nelson Mandela Bay Metropolitan Municipality,1152115,Point(25.6 -33.95),South Africa,Africa,Sesotho
+eThekwini Metropolitan Municipality,3702231,Point(31.016666666 -29.866666666),South Africa,Africa,Sesotho
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.31262 -26.1989),South Africa,Africa,Sesotho
+City of Johannesburg Metropolitan Municipality,4949347,Point(28.040605722 -26.204970437),South Africa,Africa,Sesotho
+Johannesburg,4803262,Point(28.041638888 -26.204361111),South Africa,Africa,Sesotho
+eThekwini Metropolitan Municipality,3702231,Point(30.85062 -29.80547),South Africa,Africa,Sesotho
+City of Cape Town,3740026,Point(18.5 -34.0),South Africa,Africa,Sesotho
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.333333333 -26.166666666),South Africa,Africa,Sesotho
+City of Tshwane Metropolitan Municipality,2921488,Point(28.333333333 -25.666666666),South Africa,Africa,Sesotho
+Nelson Mandela Bay Metropolitan Municipality,1263051,Point(25.6 -33.95),South Africa,Africa,Sesotho
+City of Johannesburg Metropolitan Municipality,4434827,Point(28.040605722 -26.204970437),South Africa,Africa,Sesotho
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.31262 -26.1989),South Africa,Africa,Sesotho
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.333333333 -26.166666666),South Africa,Africa,Sesotho
+Soweto,1271628,Point(27.858611111 -26.267777777),South Africa,Africa,Sesotho
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Amis
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Amis
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Amis
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Amis
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Amis
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Amis
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Amis
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Amis
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Amis
+City of Tshwane Metropolitan Municipality,3275152,Point(28.333333333 -25.666666666),South Africa,Africa,Swazi
+City of Tshwane Metropolitan Municipality,3275152,Point(28.333333333 -25.666666666),South Africa,Africa,Tswana
+Cape Town,3776313,Point(18.423888888 -33.925277777),South Africa,Africa,Swazi
+Cape Town,3776313,Point(18.423888888 -33.925277777),South Africa,Africa,Tswana
+Nelson Mandela Bay Metropolitan Municipality,1152115,Point(25.6 -33.95),South Africa,Africa,Swazi
+Nelson Mandela Bay Metropolitan Municipality,1152115,Point(25.6 -33.95),South Africa,Africa,Tswana
+eThekwini Metropolitan Municipality,3702231,Point(31.016666666 -29.866666666),South Africa,Africa,Swazi
+eThekwini Metropolitan Municipality,3702231,Point(31.016666666 -29.866666666),South Africa,Africa,Tswana
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Taiwanese Sign Language
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.31262 -26.1989),South Africa,Africa,Swazi
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.31262 -26.1989),South Africa,Africa,Tswana
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Taiwanese Sign Language
+City of Johannesburg Metropolitan Municipality,4949347,Point(28.040605722 -26.204970437),South Africa,Africa,Swazi
+City of Johannesburg Metropolitan Municipality,4949347,Point(28.040605722 -26.204970437),South Africa,Africa,Tswana
+Johannesburg,4803262,Point(28.041638888 -26.204361111),South Africa,Africa,Swazi
+Johannesburg,4803262,Point(28.041638888 -26.204361111),South Africa,Africa,Tswana
+eThekwini Metropolitan Municipality,3702231,Point(30.85062 -29.80547),South Africa,Africa,Swazi
+eThekwini Metropolitan Municipality,3702231,Point(30.85062 -29.80547),South Africa,Africa,Tswana
+City of Cape Town,3740026,Point(18.5 -34.0),South Africa,Africa,Swazi
+City of Cape Town,3740026,Point(18.5 -34.0),South Africa,Africa,Tswana
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Taiwanese Sign Language
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Taiwanese Sign Language
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.333333333 -26.166666666),South Africa,Africa,Swazi
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.333333333 -26.166666666),South Africa,Africa,Tswana
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Taiwanese Sign Language
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Taiwanese Sign Language
+City of Tshwane Metropolitan Municipality,2921488,Point(28.333333333 -25.666666666),South Africa,Africa,Swazi
+City of Tshwane Metropolitan Municipality,2921488,Point(28.333333333 -25.666666666),South Africa,Africa,Tswana
+Nelson Mandela Bay Metropolitan Municipality,1263051,Point(25.6 -33.95),South Africa,Africa,Swazi
+Nelson Mandela Bay Metropolitan Municipality,1263051,Point(25.6 -33.95),South Africa,Africa,Tswana
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Taiwanese Sign Language
+City of Johannesburg Metropolitan Municipality,4434827,Point(28.040605722 -26.204970437),South Africa,Africa,Swazi
+City of Johannesburg Metropolitan Municipality,4434827,Point(28.040605722 -26.204970437),South Africa,Africa,Tswana
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Taiwanese Sign Language
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Taiwanese Sign Language
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.31262 -26.1989),South Africa,Africa,Swazi
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.31262 -26.1989),South Africa,Africa,Tswana
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.333333333 -26.166666666),South Africa,Africa,Swazi
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.333333333 -26.166666666),South Africa,Africa,Tswana
+Soweto,1271628,Point(27.858611111 -26.267777777),South Africa,Africa,Swazi
+Soweto,1271628,Point(27.858611111 -26.267777777),South Africa,Africa,Tswana
+Santa Cruz de la Sierra,3151676,Point(-63.1975 -17.789166666),Bolivia,South America,Guarani
+Auckland,1470100,Point(174.765277777 -36.849166666),New Zealand,Oceania,New Zealand Sign Language
+Auckland,1470100,Point(174.765277777 -36.849166666),New Zealand,Oceania,Māori
+Basra,1326564,Point(47.81 30.515),Iraq,Asia,Kurdish
+Mosul,1792000,Point(43.116666666 36.366666666),Iraq,Asia,Kurdish
+Baghdad,8126755,Point(44.366111111 33.315277777),Iraq,Asia,Kurdish
+City of Tshwane Metropolitan Municipality,3275152,Point(28.333333333 -25.666666666),South Africa,Africa,Southern Ndebele
+Cape Town,3776313,Point(18.423888888 -33.925277777),South Africa,Africa,Southern Ndebele
+Nelson Mandela Bay Metropolitan Municipality,1152115,Point(25.6 -33.95),South Africa,Africa,Southern Ndebele
+eThekwini Metropolitan Municipality,3702231,Point(31.016666666 -29.866666666),South Africa,Africa,Southern Ndebele
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.31262 -26.1989),South Africa,Africa,Southern Ndebele
+City of Johannesburg Metropolitan Municipality,4949347,Point(28.040605722 -26.204970437),South Africa,Africa,Southern Ndebele
+Johannesburg,4803262,Point(28.041638888 -26.204361111),South Africa,Africa,Southern Ndebele
+eThekwini Metropolitan Municipality,3702231,Point(30.85062 -29.80547),South Africa,Africa,Southern Ndebele
+City of Cape Town,3740026,Point(18.5 -34.0),South Africa,Africa,Southern Ndebele
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.333333333 -26.166666666),South Africa,Africa,Southern Ndebele
+City of Tshwane Metropolitan Municipality,2921488,Point(28.333333333 -25.666666666),South Africa,Africa,Southern Ndebele
+Nelson Mandela Bay Metropolitan Municipality,1263051,Point(25.6 -33.95),South Africa,Africa,Southern Ndebele
+City of Johannesburg Metropolitan Municipality,4434827,Point(28.040605722 -26.204970437),South Africa,Africa,Southern Ndebele
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.31262 -26.1989),South Africa,Africa,Southern Ndebele
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.333333333 -26.166666666),South Africa,Africa,Southern Ndebele
+Soweto,1271628,Point(27.858611111 -26.267777777),South Africa,Africa,Southern Ndebele
+Singapore,5866139,Point(103.8 1.3),Singapore,Asia,Standard Chinese
+Tainan,1854682,Point(120.185 22.99),Taiwan,Asia,Taiwanese Hokkien
+Kaohsiung,2733964,Point(120.2975 22.615),Taiwan,Asia,Taiwanese Hokkien
+Taichung,3033885,Point(120.679444444 24.143888888),Taiwan,Asia,Taiwanese Hokkien
+Tainan,1874686,Point(120.185 22.99),Taiwan,Asia,Taiwanese Hokkien
+Taipei,2442991,Point(121.5625 25.0375),Taiwan,Asia,Taiwanese Hokkien
+Taichung,2867537,Point(120.679444444 24.143888888),Taiwan,Asia,Taiwanese Hokkien
+Taoyuan,2352683,Point(121.314328 24.991278),Taiwan,Asia,Taiwanese Hokkien
+Vienna,2028289,Point(16.3725 48.208333333),Austria,Europe,Austrian Sign Language
+New Taipei,4046037,Point(121.465 25.0125),Taiwan,Asia,Taiwanese Hokkien
+Kaohsiung,2721500,Point(120.2975 22.615),Taiwan,Asia,Taiwanese Hokkien
+Guayaquil,2650288,Point(-79.8875 -2.19),Ecuador,South America,Shuar
+Quito,1763275,Point(-78.5125 -0.22),Ecuador,South America,Shuar
+Sydney,5450496,Point(151.21 -33.867777777),Australia,Oceania,Australian English
+Adelaide,1387290,Point(138.6 -34.9275),Australia,Oceania,Australian English
+Perth,2141834,Point(115.859722222 -31.955833333),Australia,Oceania,Australian English
+Melbourne,5350705,Point(144.963055555 -37.814166666),Australia,Oceania,Australian English
+Brisbane,2706966,Point(153.027777777 -27.467777777),Australia,Oceania,Australian English
+City of Tshwane Metropolitan Municipality,3275152,Point(28.333333333 -25.666666666),South Africa,Africa,South African Sign Language
+Cape Town,3776313,Point(18.423888888 -33.925277777),South Africa,Africa,South African Sign Language
+Guayaquil,2650288,Point(-79.8875 -2.19),Ecuador,South America,Northern Quichua
+Quito,1763275,Point(-78.5125 -0.22),Ecuador,South America,Northern Quichua
+Nelson Mandela Bay Metropolitan Municipality,1152115,Point(25.6 -33.95),South Africa,Africa,South African Sign Language
+eThekwini Metropolitan Municipality,3702231,Point(31.016666666 -29.866666666),South Africa,Africa,South African Sign Language
+San Diego,1386932,Point(-67.953888888 10.255833333),Venezuela,South America,Venezuelan Sign Language
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.31262 -26.1989),South Africa,Africa,South African Sign Language
+City of Johannesburg Metropolitan Municipality,4949347,Point(28.040605722 -26.204970437),South Africa,Africa,South African Sign Language
+Johannesburg,4803262,Point(28.041638888 -26.204361111),South Africa,Africa,South African Sign Language
+eThekwini Metropolitan Municipality,3702231,Point(30.85062 -29.80547),South Africa,Africa,South African Sign Language
+City of Cape Town,3740026,Point(18.5 -34.0),South Africa,Africa,South African Sign Language
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.333333333 -26.166666666),South Africa,Africa,South African Sign Language
+Maracaibo,1551539,Point(-71.633333333 10.633333333),Venezuela,South America,Venezuelan Sign Language
+City of Tshwane Metropolitan Municipality,2921488,Point(28.333333333 -25.666666666),South Africa,Africa,South African Sign Language
+Nelson Mandela Bay Metropolitan Municipality,1263051,Point(25.6 -33.95),South Africa,Africa,South African Sign Language
+City of Johannesburg Metropolitan Municipality,4434827,Point(28.040605722 -26.204970437),South Africa,Africa,South African Sign Language
+Valencia,1484430,Point(-68.0 10.166666666),Venezuela,South America,Venezuelan Sign Language
+Maracay,1102088,Point(-67.595833333 10.246944444),Venezuela,South America,Venezuelan Sign Language
+Maracaibo,1752602,Point(-71.633333333 10.633333333),Venezuela,South America,Venezuelan Sign Language
+City of Ekurhuleni Metropolitan Municipality,3379104,Point(28.31262 -26.1989),South Africa,Africa,South African Sign Language
+City of Ekurhuleni Metropolitan Municipality,3178470,Point(28.333333333 -26.166666666),South Africa,Africa,South African Sign Language
+Soweto,1271628,Point(27.858611111 -26.267777777),South Africa,Africa,South African Sign Language
+Caracas,2245744,Point(-66.914444444 10.506111111),Venezuela,South America,Venezuelan Sign Language
+Barquisimeto,1059092,Point(-69.346694444 10.067777777),Venezuela,South America,Venezuelan Sign Language
+Jingmen,2596927,Point(112.211388888 31.038055555),People's Republic of China,Asia,Putonghua
+Taiyuan,4201592,Point(112.54245 37.87326),People's Republic of China,Asia,Putonghua
+Chaoyang,2872857,Point(120.44856 41.57567),People's Republic of China,Asia,Putonghua
+Huangshi,2471700,Point(115.03262 30.20178),People's Republic of China,Asia,Putonghua
+Jiujiang,4600276,Point(116.00206 29.70475),People's Republic of China,Asia,Putonghua
+Jilin City,3623713,Point(126.56157 43.8461),People's Republic of China,Asia,Putonghua
+Tieling,2717732,Point(123.83654 42.28407),People's Republic of China,Asia,Putonghua
+Zhongshan,3260000,Point(113.35 22.533333333),People's Republic of China,Asia,Putonghua
+Zhangjiakou,4118908,Point(114.88114 40.81078),People's Republic of China,Asia,Putonghua
+Xiaogan,4270371,Point(113.91096 30.92731),People's Republic of China,Asia,Putonghua
+Chaoyang,3044641,Point(120.44856 41.57567),People's Republic of China,Asia,Putonghua
+Tieling,2388294,Point(123.83654 42.28407),People's Republic of China,Asia,Putonghua
+Meizhou,3873239,Point(116.11913 24.29977),People's Republic of China,Asia,Putonghua
+Xiamen,5163970,Point(118.081944444 24.479722222),People's Republic of China,Asia,Putonghua
+Qinhuangdao,3107400,Point(119.58812 39.93978),People's Republic of China,Asia,Putonghua
+Beijing,21893095,Point(116.407526 39.90403),People's Republic of China,Asia,Putonghua
+Huzhou,2893542,Point(120.0875 30.8925),People's Republic of China,Asia,Putonghua
+Taiyuan,1350000,Point(112.54245 37.87326),People's Republic of China,Asia,Putonghua
+Jiujiang,4896800,Point(116.00206 29.70475),People's Republic of China,Asia,Putonghua
+Wuxi,7462135,Point(120.283333 31.566667),People's Republic of China,Asia,Putonghua
+Jingzhou,5231180,Point(112.236111111 30.324444444),People's Republic of China,Asia,Putonghua
+Wenzhou,9572903,Point(120.656075 27.999128),People's Republic of China,Asia,Putonghua
+Chengde,3354444,Point(117.932222222 40.973888888),People's Republic of China,Asia,Putonghua
+Jilin City,4413157,Point(126.56157 43.8461),People's Republic of China,Asia,Putonghua
+Dalian,7450785,Point(121.6 38.9),People's Republic of China,Asia,Putonghua
+Panjin,1389691,Point(122.06339 41.11983),People's Republic of China,Asia,Putonghua
+Shanwei,2672819,Point(115.333056 22.766389),People's Republic of China,Asia,Putonghua
+Ningbo,7639000,Point(121.549166666 29.875),People's Republic of China,Asia,Putonghua
+Zhuhai,2439585,Point(113.571944444 22.274166666),People's Republic of China,Asia,Putonghua
+Longyan,2723637,Point(117.024444 25.088056),People's Republic of China,Asia,Putonghua
+Shuozhou,1593444,Point(112.42923 39.34078),People's Republic of China,Asia,Putonghua
+Jiangmen,4798090,Point(113.08333 22.58333),People's Republic of China,Asia,Putonghua
+Baoding,11544036,Point(115.48452 38.86712),People's Republic of China,Asia,Putonghua
+Huanggang,5882719,Point(114.875 30.45),People's Republic of China,Asia,Putonghua
+Shaoguan,2855131,Point(113.59271 24.80113),People's Republic of China,Asia,Putonghua
+Tangshan,7717983,Point(118.173888888 39.629444444),People's Republic of China,Asia,Putonghua
+Xiangyang,5680000,Point(112.15307 32.06536),People's Republic of China,Asia,Putonghua
+Zhangjiakou,4345485,Point(114.88114 40.81078),People's Republic of China,Asia,Putonghua
+Dandong,2188436,Point(124.383333333 40.116666666),People's Republic of China,Asia,Putonghua
+Sanming,2486450,Point(117.63017 26.2658),People's Republic of China,Asia,Putonghua
+Taiyuan,1900000,Point(112.54245 37.87326),People's Republic of China,Asia,Putonghua
+Nanping,2680645,Point(118.17282 26.64481),People's Republic of China,Asia,Putonghua
+Quzhou,2276184,Point(118.8763 28.95445),People's Republic of China,Asia,Putonghua
+Xining,2208708,Point(101.77866 36.62386),People's Republic of China,Asia,Putonghua
+Zhenjiang,3210418,Point(119.45508 32.21086),People's Republic of China,Asia,Putonghua
+Changchun,9066906,Point(125.322777777 43.88),People's Republic of China,Asia,Putonghua
+Cangzhou,7300783,Point(116.84519 38.30369),People's Republic of China,Asia,Putonghua
+Yichang,4017607,Point(111.280278 30.708333),People's Republic of China,Asia,Putonghua
+Huangshi,2469079,Point(115.03262 30.20178),People's Republic of China,Asia,Putonghua
+Jingzhou,5570100,Point(112.236111111 30.324444444),People's Republic of China,Asia,Putonghua
+Quzhou,2185000,Point(118.8763 28.95445),People's Republic of China,Asia,Putonghua
+Dandong,2444697,Point(124.383333333 40.116666666),People's Republic of China,Asia,Putonghua
+Taiyuan,4300000,Point(112.54245 37.87326),People's Republic of China,Asia,Putonghua
+Zhanjiang,6981236,Point(110.403056 21.196667),People's Republic of China,Asia,Putonghua
+Shaoguan,2997600,Point(113.59271 24.80113),People's Republic of China,Asia,Putonghua
+Huai'an,4556230,Point(119.01917 33.58861),People's Republic of China,Asia,Putonghua
+Xining,2467965,Point(101.77866 36.62386),People's Republic of China,Asia,Putonghua
+Putian,3210714,Point(119.010278 25.439444),People's Republic of China,Asia,Putonghua
+Zhangzhou,5054328,Point(117.66117 24.50932),People's Republic of China,Asia,Putonghua
+Shuozhou,1714857,Point(112.42923 39.34078),People's Republic of China,Asia,Putonghua
+Qinhuangdao,3136879,Point(119.58812 39.93978),People's Republic of China,Asia,Putonghua
+Siping,1814733,Point(124.36438 43.17154),People's Republic of China,Asia,Putonghua
+Ningde,3146789,Point(119.522777777 26.661666666),People's Republic of China,Asia,Putonghua
+Qingyuan,3969473,Point(113.05075 23.68425),People's Republic of China,Asia,Putonghua
+Yingkou,2328582,Point(122.22972 40.66525),People's Republic of China,Asia,Putonghua
+Shiyan,3209004,Point(110.7755 32.63507),People's Republic of China,Asia,Putonghua
+Fuzhou,8291268,Point(119.291666666 26.076944444),People's Republic of China,Asia,Putonghua
+Fushun,1861372,Point(123.89173 41.87085),People's Republic of China,Asia,Putonghua
+Siping,3385156,Point(124.36438 43.17154),People's Republic of China,Asia,Putonghua
+Ezhou,1059700,Point(114.88418 30.39724),People's Republic of China,Asia,Putonghua
+Suzhou,12748262,Point(120.619444444 31.3),People's Republic of China,Asia,Putonghua
+Zhenjiang,3113384,Point(119.45508 32.21086),People's Republic of China,Asia,Putonghua
+Jiangmen,4630300,Point(113.08333 22.58333),People's Republic of China,Asia,Putonghua
+Xiaogan,4921000,Point(113.91096 30.92731),People's Republic of China,Asia,Putonghua
+Jingmen,2897500,Point(112.211388888 31.038055555),People's Republic of China,Asia,Putonghua
+Taiyuan,1712000,Point(112.54245 37.87326),People's Republic of China,Asia,Putonghua
+Shaoxing,5270977,Point(120.57864 30.00237),People's Republic of China,Asia,Putonghua
+Zhuhai,1891100,Point(113.571944444 22.274166666),People's Republic of China,Asia,Putonghua
+Ezhou,1079353,Point(114.88418 30.39724),People's Republic of China,Asia,Putonghua
+Xiangyang,5260951,Point(112.15307 32.06536),People's Republic of China,Asia,Putonghua
+Yingkou,2296540,Point(122.22972 40.66525),People's Republic of China,Asia,Putonghua
+Shaoxing,5270977,Point(120.583333333 30.0),People's Republic of China,Asia,Putonghua
+Chaozhou,2656600,Point(116.63 23.67),People's Republic of China,Asia,Putonghua
+Handan,9413990,Point(114.48937 36.61161),People's Republic of China,Asia,Putonghua
+Taiyuan,5304061,Point(112.54245 37.87326),People's Republic of China,Asia,Putonghua
+Algiers,2364230,Point(3.058611111 36.776388888),Algeria,Africa,Standard Algerian Berber
+Chengde,3473201,Point(117.932222222 40.973888888),People's Republic of China,Asia,Putonghua
+Huanggang,6333000,Point(114.875 30.45),People's Republic of China,Asia,Putonghua
+Zhongshan,4418060,Point(113.35 22.533333333),People's Republic of China,Asia,Putonghua
+Jincheng,2194545,Point(112.8483 35.49056),People's Republic of China,Asia,Putonghua
+Yingkou,2428534,Point(122.22972 40.66525),People's Republic of China,Asia,Putonghua
+Shiyan,3398000,Point(110.7755 32.63507),People's Republic of China,Asia,Putonghua
+Ningbo,9404283,Point(121.549166666 29.875),People's Republic of China,Asia,Putonghua
+Dongguan,10466625,Point(113.74928 23.04749),People's Republic of China,Asia,Putonghua
+Xianning,2548400,Point(114.32882 29.83411),People's Republic of China,Asia,Putonghua
+Panjin,1392493,Point(122.06339 41.11983),People's Republic of China,Asia,Putonghua
+Huzhou,3367579,Point(120.0875 30.8925),People's Republic of China,Asia,Putonghua
+Meizhou,4378800,Point(116.11913 24.29977),People's Republic of China,Asia,Putonghua
+Shanwei,2738482,Point(115.333056 22.766389),People's Republic of China,Asia,Putonghua
+Qingyuan,3874000,Point(113.05075 23.68425),People's Republic of China,Asia,Putonghua
+Lianyungang,4599360,Point(119.1801 34.59057),People's Republic of China,Asia,Putonghua
+Huaihua,4979600,Point(109.959167 27.549444),People's Republic of China,Asia,Putonghua
+Taizhou,5968838,Point(121.42213 28.6583),People's Republic of China,Asia,Putonghua
+Shijiazhuang,10640458,Point(114.51 38.0425),People's Republic of China,Asia,Putonghua
+Jiaxing,4501657,Point(120.75 30.7522),People's Republic of China,Asia,Putonghua
+Leshan,3235759,Point(103.75755 29.5854),People's Republic of China,Asia,Putonghua
+Suining,3252619,Point(105.57373 30.50984),People's Republic of China,Asia,Putonghua
+Yibin,4588804,Point(104.63997 28.75961),People's Republic of China,Asia,Putonghua
+Guangyuan,2484122,Point(105.83985 32.43529),People's Republic of China,Asia,Putonghua
+Jinhua,5361572,Point(119.64937 29.10462),People's Republic of China,Asia,Putonghua
+Langfang,5464087,Point(116.70056 39.51962),People's Republic of China,Asia,Putonghua
+Liupanshui,2950500,Point(104.833333 26.594444),People's Republic of China,Asia,Putonghua
+Leshan,3160168,Point(103.75755 29.5854),People's Republic of China,Asia,Putonghua
+Anshun,2353100,Point(105.93401 26.24562),People's Republic of China,Asia,Putonghua
+Anshun,2470630,Point(105.93401 26.24562),People's Republic of China,Asia,Putonghua
+Tongren,3168800,Point(109.18851 27.72334),People's Republic of China,Asia,Putonghua
+Liaoyang,1858768,Point(123.1772 41.26432),People's Republic of China,Asia,Putonghua
+Changzhi,3334565,Point(113.09695 36.19529),People's Republic of China,Asia,Putonghua
+Mianyang,4613862,Point(104.73847 31.46688),People's Republic of China,Asia,Putonghua
+Benxi,1326018,Point(123.76097 41.29204),People's Republic of China,Asia,Putonghua
+Hengshui,4472000,Point(115.68599 37.73484),People's Republic of China,Asia,Putonghua
+Nanchong,5607565,Point(106.07843 30.79913),People's Republic of China,Asia,Putonghua
+Ya'an,1434603,Point(103.00074 29.9888),People's Republic of China,Asia,Putonghua
+Yangzhou,4459760,Point(119.43625 32.39117),People's Republic of China,Asia,Putonghua
+Neijiang,3702847,Point(105.0635 29.58716),People's Republic of China,Asia,Putonghua
+Heyuan,3093900,Point(114.69229 23.75033),People's Republic of China,Asia,Putonghua
+Nantong,7726635,Point(120.8873 31.98288),People's Republic of China,Asia,Putonghua
+Jinhua,7050683,Point(119.64937 29.10462),People's Republic of China,Asia,Putonghua
+Xuzhou,9083790,Point(117.18587 34.26104),People's Republic of China,Asia,Putonghua
+Yunfu,2383350,Point(112.03526 22.92423),People's Republic of China,Asia,Putonghua
+Huizhou,6042852,Point(114.41523 23.11147),People's Republic of China,Asia,Putonghua
+Yangjiang,2602959,Point(111.96272 21.85563),People's Republic of China,Asia,Putonghua
+Changzhi,3334565,Point(112.88436 36.45564),People's Republic of China,Asia,Putonghua
+Heyuan,2837686,Point(114.69229 23.75033),People's Republic of China,Asia,Putonghua
+Liupanshui,3031602,Point(104.833333 26.594444),People's Republic of China,Asia,Putonghua
+Zhaoqing,4113594,Point(112.466666666 23.05),People's Republic of China,Asia,Putonghua
+Yibin,4887242,Point(104.63997 28.75961),People's Republic of China,Asia,Putonghua
+Huizhou,4830000,Point(114.41523 23.11147),People's Republic of China,Asia,Putonghua
+Shangqiu,7816831,Point(115.64673 34.42592),People's Republic of China,Asia,Putonghua
+Changzhou,5278121,Point(119.969166666 31.812166666),People's Republic of China,Asia,Putonghua
+Guangyuan,2305657,Point(105.83985 32.43529),People's Republic of China,Asia,Putonghua
+Panzhihua,1214121,Point(101.71487 26.58487),People's Republic of China,Asia,Putonghua
+Ya'an,1507258,Point(103.00074 29.9888),People's Republic of China,Asia,Putonghua
+Taizhou,4512762,Point(119.9 32.483056),People's Republic of China,Asia,Putonghua
+Jinzhong,3249425,Point(112.74164 37.69332),People's Republic of China,Asia,Putonghua
+Yangquan,1318505,Point(113.57623 37.8576),People's Republic of China,Asia,Putonghua
+Huludao,2434194,Point(120.837777777 40.709444444),People's Republic of China,Asia,Putonghua
+Heihe,1673899,Point(127.488611 50.245833),People's Republic of China,Asia,Putonghua
+Zhoushan,1157817,Point(122.20488 29.98869),People's Republic of China,Asia,Putonghua
+Guang'an,3205476,Point(106.63358 30.46729),People's Republic of China,Asia,Putonghua
+Jinzhong,3379498,Point(112.74164 37.69332),People's Republic of China,Asia,Putonghua
+Quanzhou,8782285,Point(118.58583 24.91389),People's Republic of China,Asia,Putonghua
+Benxi,1709538,Point(123.76097 41.29204),People's Republic of China,Asia,Putonghua
+Guang'an,4124100,Point(106.63358 30.46729),People's Republic of China,Asia,Putonghua
+Heihe,1286401,Point(127.488611 50.245833),People's Republic of China,Asia,Putonghua
+Suining,2814196,Point(105.57373 30.50984),People's Republic of China,Asia,Putonghua
+Liaoyang,1604580,Point(123.1772 41.26432),People's Republic of China,Asia,Putonghua
+Anshan,3325372,Point(122.98945 41.10662),People's Republic of China,Asia,Putonghua
+Yancheng,6709629,Point(120.156944444 33.35),People's Republic of China,Asia,Putonghua
+Tongren,3298468,Point(109.18851 27.72334),People's Republic of China,Asia,Putonghua
+Datong,3105591,Point(113.291388888 40.093611111),People's Republic of China,Asia,Putonghua
+Liaoyuan,1176239,Point(125.13805 42.89757),People's Republic of China,Asia,Putonghua
+Xianning,2658316,Point(114.32882 29.83411),People's Republic of China,Asia,Putonghua
+Panzhihua,1212203,Point(101.71487 26.58487),People's Republic of China,Asia,Putonghua
+Taizhou,6622888,Point(121.42213 28.6583),People's Republic of China,Asia,Putonghua
+Hengshui,4212933,Point(115.68599 37.73484),People's Republic of China,Asia,Putonghua
+Huludao,2623541,Point(120.837777777 40.709444444),People's Republic of China,Asia,Putonghua
+Changzhi,3180884,Point(113.09695 36.19529),People's Republic of China,Asia,Putonghua
+Huaihua,4587594,Point(109.959167 27.549444),People's Republic of China,Asia,Putonghua
+Yibin,4471896,Point(104.63997 28.75961),People's Republic of China,Asia,Putonghua
+Tianjin,13866009,Point(117.205555555 39.146666666),People's Republic of China,Asia,Putonghua
+Langfang,4358839,Point(116.70056 39.51962),People's Republic of China,Asia,Putonghua
+Mianyang,4868243,Point(104.73847 31.46688),People's Republic of China,Asia,Putonghua
+Deyang,3877000,Point(104.39499 31.12892),People's Republic of China,Asia,Putonghua
+Deyang,3456161,Point(104.39499 31.12892),People's Republic of China,Asia,Putonghua
+Yangzhou,4559797,Point(119.43625 32.39117),People's Republic of China,Asia,Putonghua
+Shanghai,24870895,Point(121.469166666 31.2325),People's Republic of China,Asia,Putonghua
+Suqian,4986192,Point(118.283056 33.933056),People's Republic of China,Asia,Putonghua
+Shantou,5502031,Point(116.682222222 23.353888888),People's Republic of China,Asia,Putonghua
+Jiaxing,5400868,Point(120.75 30.7522),People's Republic of China,Asia,Putonghua
+Changzhi,3180884,Point(112.88436 36.45564),People's Republic of China,Asia,Putonghua
+Datong,3318054,Point(113.291388888 40.093611111),People's Republic of China,Asia,Putonghua
+Zhoushan,1121261,Point(122.20488 29.98869),People's Republic of China,Asia,Putonghua
+Neijiang,3140678,Point(105.0635 29.58716),People's Republic of China,Asia,Putonghua
+Zhaoqing,4151700,Point(112.466666666 23.05),People's Republic of China,Asia,Putonghua
+Guang'an,3254883,Point(106.63358 30.46729),People's Republic of China,Asia,Putonghua
+Tonghua,1302778,Point(125.94705 41.73015),People's Republic of China,Asia,Putonghua
+Zhaotong,5092611,Point(103.71445 27.33284),People's Republic of China,Asia,Putonghua
+Baoshan,2431211,Point(99.16905 25.12105),People's Republic of China,Asia,Putonghua
+Chuzhou,3937868,Point(118.31148 32.30621),People's Republic of China,Asia,Putonghua
+Zhuzhou,4020800,Point(113.14692 27.84071),People's Republic of China,Asia,Putonghua
+Hohhot,3446100,Point(111.66293 40.81507),People's Republic of China,Asia,Putonghua
+Yongzhou,5289824,Point(111.59527 26.4515),People's Republic of China,Asia,Putonghua
+Hanzhong,3211462,Point(107.02598 33.07938),People's Republic of China,Asia,Putonghua
+Hezhou,2072600,Point(111.547777777 24.416388888),People's Republic of China,Asia,Putonghua
+Yuyao City,1095000,Point(121.15463 30.037195),People's Republic of China,Asia,Putonghua
+Baiyin,1708751,Point(104.1766 36.5448),People's Republic of China,Asia,Putonghua
+Wuzhou,2820977,Point(111.316667 23.483333),People's Republic of China,Asia,Putonghua
+Qingyang,2179716,Point(107.64 35.727777777),People's Republic of China,Asia,Putonghua
+Yinchuan,2859074,Point(106.225 38.485),People's Republic of China,Asia,Putonghua
+Hechi,3545700,Point(108.085 24.692777777),People's Republic of China,Asia,Putonghua
+Xingtai,7111106,Point(114.47531 37.06594),People's Republic of China,Asia,Putonghua
+Yulin,3624750,Point(109.73881 38.26548),People's Republic of China,Asia,Putonghua
+Kaifeng,4824016,Point(114.345 34.795),People's Republic of China,Asia,Putonghua
+Bijie,6899636,Point(105.28627 27.30193),People's Republic of China,Asia,Putonghua
+Pingliang,1848607,Point(106.68192 35.54123),People's Republic of China,Asia,Putonghua
+Guyuan,1426000,Point(106.27816 36.00801),People's Republic of China,Asia,Putonghua
+Suizhou,2047923,Point(113.3658 31.71755),People's Republic of China,Asia,Putonghua
+Yichun,1148126,Point(128.88932 47.72347),People's Republic of China,Asia,Putonghua
+Tongling,1311726,Point(117.811388888 30.945555555),People's Republic of China,Asia,Putonghua
+Baoji,3321853,Point(107.17507 34.36094),People's Republic of China,Asia,Putonghua
+Anyang,5477614,Point(114.34614 36.09561),People's Republic of China,Asia,Putonghua
+Rizhao,2968365,Point(119.433055555 35.416388888),People's Republic of China,Asia,Putonghua
+Tongliao,3139153,Point(122.26398 43.61723),People's Republic of China,Asia,Putonghua
+Shenyang,9070093,Point(123.428055555 41.8025),People's Republic of China,Asia,Putonghua
+Tongliao,2873168,Point(122.26398 43.61723),People's Republic of China,Asia,Putonghua
+Bengbu,3296408,Point(117.35312 32.93537),People's Republic of China,Asia,Putonghua
+Jiuquan,1055706,Point(98.50489 39.73695),People's Republic of China,Asia,Putonghua
+Beiliu,1211637,Point(110.35 22.7),People's Republic of China,Asia,Putonghua
+Lu'an,4393699,Point(116.50778 31.75425),People's Republic of China,Asia,Putonghua
+Baotou,2650364,Point(109.83454 40.65621),People's Republic of China,Asia,Putonghua
+Nanjing,9314685,Point(118.778888888 32.060833333),People's Republic of China,Asia,Putonghua
+Leiyang,1151554,Point(112.8457 26.4179),People's Republic of China,Asia,Putonghua
+Guigang,4409200,Point(109.594444444 23.114444444),People's Republic of China,Asia,Putonghua
+Yueqing,1389332,Point(120.96211 28.11883),People's Republic of China,Asia,Putonghua
+Tianshui,2984659,Point(105.73115 34.58093),People's Republic of China,Asia,Putonghua
+Huainan,3033528,Point(117.016389 32.483056),People's Republic of China,Asia,Putonghua
+Suihua,3756167,Point(126.98079 46.6384),People's Republic of China,Asia,Putonghua
+Xi'an,12952907,Point(108.942222222 34.261111111),People's Republic of China,Asia,Putonghua
+Rui'an,1520386,Point(120.65263 27.778),People's Republic of China,Asia,Putonghua
+Guangzhou,18676605,Point(113.26 23.13),People's Republic of China,Asia,Putonghua
+Jiuquan,1095947,Point(98.50489 39.73695),People's Republic of China,Asia,Putonghua
+Hegang,1058665,Point(130.2775 47.313889),People's Republic of China,Asia,Putonghua
+Guigang,4316262,Point(109.594444444 23.114444444),People's Republic of China,Asia,Putonghua
+Daqing,2904532,Point(125.00798 46.59791),People's Republic of China,Asia,Putonghua
+Pingliang,2068033,Point(106.68192 35.54123),People's Republic of China,Asia,Putonghua
+Shenzhen,17494398,Point(114.054444444 22.546666666),People's Republic of China,Asia,Putonghua
+Baotou,2709378,Point(109.83454 40.65621),People's Republic of China,Asia,Putonghua
+Wuzhong,1284000,Point(106.19189 37.98742),People's Republic of China,Asia,Putonghua
+Wuhan,12326518,Point(114.2975 30.595),People's Republic of China,Asia,Putonghua
+Guyuan,1142142,Point(106.27816 36.00801),People's Republic of China,Asia,Putonghua
+Yulin,5796766,Point(110.15067 22.6293),People's Republic of China,Asia,Putonghua
+Shuangyashan,1462626,Point(131.15452 46.63883),People's Republic of China,Asia,Putonghua
+Chifeng,4341245,Point(118.8825 42.255),People's Republic of China,Asia,Putonghua
+Suihua,5418153,Point(126.98079 46.6384),People's Republic of China,Asia,Putonghua
+Yueqing,1452707,Point(120.96211 28.11883),People's Republic of China,Asia,Putonghua
+Shuangyashan,1208803,Point(131.15452 46.63883),People's Republic of China,Asia,Putonghua
+Leiyang,1140675,Point(112.8457 26.4179),People's Republic of China,Asia,Putonghua
+Suizhou,2221000,Point(113.3658 31.71755),People's Republic of China,Asia,Putonghua
+Daqing,2781562,Point(125.00798 46.59791),People's Republic of China,Asia,Putonghua
+Chengdu,20937757,Point(104.063333333 30.66),People's Republic of China,Asia,Putonghua
+Chifeng,4035967,Point(118.8825 42.255),People's Republic of China,Asia,Putonghua
+Yulin,5849700,Point(110.15067 22.6293),People's Republic of China,Asia,Putonghua
+Hong Kong,7413070,Point(114.158611111 22.278333333),People's Republic of China,Asia,Putonghua
+Hangzhou,11936010,Point(120.1675 30.25),People's Republic of China,Asia,Putonghua
+Wuzhong,1382713,Point(106.19189 37.98742),People's Republic of China,Asia,Putonghua
+Longnan,2567718,Point(105.349 33.535),People's Republic of China,Asia,Putonghua
+Wuwei,1464955,Point(102.63286 37.92781),People's Republic of China,Asia,Putonghua
+Zhangye,1199515,Point(100.45529 38.93545),People's Republic of China,Asia,Putonghua
+Weinan,4688744,Point(109.46838 34.49962),People's Republic of China,Asia,Putonghua
+Wuzhou,3061100,Point(111.316667 23.483333),People's Republic of China,Asia,Putonghua
+Haidong,1396845,Point(102.10315 36.50145),People's Republic of China,Asia,Putonghua
+Qinzhou,3304400,Point(108.616666666 21.95),People's Republic of China,Asia,Putonghua
+Mudanjiang,2798723,Point(129.599722 44.586111),People's Republic of China,Asia,Putonghua
+Ziyang,2308631,Point(104.63974 30.12562),People's Republic of China,Asia,Putonghua
+Baise,3669400,Point(106.61943 23.90103),People's Republic of China,Asia,Putonghua
+Fangchenggang,1046068,Point(108.3 21.6),People's Republic of China,Asia,Putonghua
+Yan'an,2282581,Point(109.48628 36.59523),People's Republic of China,Asia,Putonghua
+Qiqihar,4067489,Point(123.95124 47.33981),People's Republic of China,Asia,Putonghua
+Guiping,1511011,Point(110.083333333 23.4),People's Republic of China,Asia,Putonghua
+Xiangtan,2864800,Point(112.92283 27.84306),People's Republic of China,Asia,Putonghua
+Hohhot,2866615,Point(111.66293 40.81507),People's Republic of China,Asia,Putonghua
+Ziyang,2593843,Point(104.63974 30.12562),People's Republic of China,Asia,Putonghua
+Haidong,1358471,Point(102.10315 36.50145),People's Republic of China,Asia,Putonghua
+Xiangtan,2726181,Point(112.92283 27.84306),People's Republic of China,Asia,Putonghua
+Baise,3571505,Point(106.61943 23.90103),People's Republic of China,Asia,Putonghua
+Wenling,1366794,Point(121.37179 28.37974),People's Republic of China,Asia,Putonghua
+Tai'an,5472217,Point(117.0809 36.2001),People's Republic of China,Asia,Putonghua
+Yantai,7102116,Point(121.447777777 37.464444444),People's Republic of China,Asia,Putonghua
+Laibin,2074611,Point(109.233333333 23.733333333),People's Republic of China,Asia,Putonghua
+Xianyang,3959842,Point(108.709166666 34.329722222),People's Republic of China,Asia,Putonghua
+Pu'er City,2404954,Point(100.96981 22.78028),People's Republic of China,Asia,Putonghua
+Qiqihar,5367003,Point(123.95124 47.33981),People's Republic of China,Asia,Putonghua
+Zhangye,1131016,Point(100.45529 38.93545),People's Republic of China,Asia,Putonghua
+Zhuzhou,3902738,Point(113.14692 27.84071),People's Republic of China,Asia,Putonghua
+Laibin,2233900,Point(109.233333333 23.733333333),People's Republic of China,Asia,Putonghua
+Lijiang,1253878,Point(100.220833333 26.880833333),People's Republic of China,Asia,Putonghua
+Mudanjiang,2290208,Point(129.599722 44.586111),People's Republic of China,Asia,Putonghua
+Yinchuan,1993088,Point(106.225 38.485),People's Republic of China,Asia,Putonghua
+Longnan,2407272,Point(105.349 33.535),People's Republic of China,Asia,Putonghua
+Hezhou,2007858,Point(111.547777777 24.416388888),People's Republic of China,Asia,Putonghua
+Shangluo,2041231,Point(109.92445 33.86805),People's Republic of China,Asia,Putonghua
+Yuyao City,1254032,Point(121.15463 30.037195),People's Republic of China,Asia,Putonghua
+Lincang,2257991,Point(100.0871 23.88643),People's Republic of China,Asia,Putonghua
+Kaifeng,4564900,Point(114.345 34.795),People's Republic of China,Asia,Putonghua
+Wenling,1416199,Point(121.37179 28.37974),People's Republic of China,Asia,Putonghua
+Chuzhou,3987054,Point(118.31148 32.30621),People's Republic of China,Asia,Putonghua
+Baiyin,1512110,Point(104.1766 36.5448),People's Republic of China,Asia,Putonghua
+Qinzhou,3302238,Point(108.616666666 21.95),People's Republic of China,Asia,Putonghua
+Qujing,5765775,Point(103.80287 25.51018),People's Republic of China,Asia,Putonghua
+Wuwei,1815059,Point(102.63286 37.92781),People's Republic of China,Asia,Putonghua
+Qingyang,2211191,Point(107.64 35.727777777),People's Republic of China,Asia,Putonghua
+Weifang,9386705,Point(119.1 36.716666666),People's Republic of China,Asia,Putonghua
+Beihai,1853227,Point(109.1 21.466666666),People's Republic of China,Asia,Putonghua
+Hechi,3417945,Point(108.085 24.692777777),People's Republic of China,Asia,Putonghua
+Liuzhou,4157934,Point(109.4281 24.3264),People's Republic of China,Asia,Putonghua
+Zigong,2489256,Point(104.764514 29.349842),People's Republic of China,Asia,Putonghua
+Jiamusi,2156505,Point(130.36531 46.80808),People's Republic of China,Asia,Putonghua
+Nanchang,6255007,Point(115.887222 28.684167),People's Republic of China,Asia,Putonghua
+Guilin,5085500,Point(110.286388888 25.281944444),People's Republic of China,Asia,Putonghua
+Zhongwei,1067336,Point(105.18838 37.51386),People's Republic of China,Asia,Putonghua
+Haikou,1776141,Point(110.32 20.02),People's Republic of China,Asia,Putonghua
+Ulanqab,1706328,Point(113.124444444 40.991944444),People's Republic of China,Asia,Putonghua
+Dingxi,2698624,Point(104.626278 35.580611),People's Republic of China,Asia,Putonghua
+Lanzhou,4359446,Point(103.83177 36.06171),People's Republic of China,Asia,Putonghua
+Changsha,10047914,Point(112.97087 28.19874),People's Republic of China,Asia,Putonghua
+Zigong,2678899,Point(104.764514 29.349842),People's Republic of China,Asia,Putonghua
+Jixi,1502060,Point(130.96496 45.29366),People's Republic of China,Asia,Putonghua
+Hulunbuir,2549252,Point(119.75097 49.21534),People's Republic of China,Asia,Putonghua
+Hengyang,6645243,Point(112.58568 26.89676),People's Republic of China,Asia,Putonghua
+Dezhou,5611194,Point(116.31046 37.45127),People's Republic of China,Asia,Putonghua
+Zhoukou,9026015,Point(114.6418 33.62502),People's Republic of China,Asia,Putonghua
+Kunming,8460088,Point(102.706111111 25.043333333),People's Republic of China,Asia,Putonghua
+Yueyang,5797100,Point(113.1309 29.36472),People's Republic of China,Asia,Putonghua
+Meishan,2950545,Point(103.83806 30.05746),People's Republic of China,Asia,Putonghua
+Heze,8795939,Point(115.433333333 35.233333333),People's Republic of China,Asia,Putonghua
+Zhumadian,7008427,Point(114.02528 32.97729),People's Republic of China,Asia,Putonghua
+Zaozhuang,3855601,Point(117.55 34.866666666),People's Republic of China,Asia,Putonghua
+Chongqing,32054159,Point(106.506944444 29.55),People's Republic of China,Asia,Putonghua
+Yueyang,5051922,Point(113.1309 29.36472),People's Republic of China,Asia,Putonghua
+Meishan,2955219,Point(103.83806 30.05746),People's Republic of China,Asia,Putonghua
+Yuxi,2249502,Point(102.54317 24.34953),People's Republic of China,Asia,Putonghua
+Luzhou,4218427,Point(105.44093 28.89182),People's Republic of China,Asia,Putonghua
+Binzhou,3928568,Point(118.0125 37.380555555),People's Republic of China,Asia,Putonghua
+Pudong,5681512,Point(121.539722222 31.223055555),People's Republic of China,Asia,Putonghua
+Luzhou,4254149,Point(105.44093 28.89182),People's Republic of China,Asia,Putonghua
+Fuzhou,3614866,Point(116.35775 27.98139),People's Republic of China,Asia,Putonghua
+Fuzhou,4047200,Point(116.35775 27.98139),People's Republic of China,Asia,Putonghua
+Ankang,2493436,Point(109.02352 32.68774),People's Republic of China,Asia,Putonghua
+Linyi,11018365,Point(118.35019 35.10408),People's Republic of China,Asia,Putonghua
+Shangrao,6491088,Point(117.963333333 28.441944444),People's Republic of China,Asia,Putonghua
+Yichun,5573200,Point(114.38303 27.80412),People's Republic of China,Asia,Putonghua
+Binhai New Area,1973752,Point(117.710833333 39.003333333),People's Republic of China,Asia,Putonghua
+Hebi,1565973,Point(114.2887 35.74975),People's Republic of China,Asia,Putonghua
+Qingdao,10071722,Point(120.4 36.116666666),People's Republic of China,Asia,Putonghua
+Loudi,3826996,Point(111.99742 27.73776),People's Republic of China,Asia,Putonghua
+Dazhou,5385422,Point(107.49472 31.2152),People's Republic of China,Asia,Putonghua
+Chenzhou,4744500,Point(113.02667 25.79893),People's Republic of China,Asia,Putonghua
+Yuncheng,5134779,Point(110.99796 35.03042),People's Republic of China,Asia,Putonghua
+Fuyang,8200264,Point(115.80447 32.89856),People's Republic of China,Asia,Putonghua
+Pingxiang,1933200,Point(113.85 27.633333333),People's Republic of China,Asia,Putonghua
+Dazhou,5468097,Point(107.49472 31.2152),People's Republic of China,Asia,Putonghua
+Jining,8357897,Point(116.566666666 35.4),People's Republic of China,Asia,Putonghua
+Suzhou,5324476,Point(116.96833 33.63328),People's Republic of China,Asia,Putonghua
+Yiyang,4413800,Point(112.333333333 28.583333333),People's Republic of China,Asia,Putonghua
+Nanyang,9713112,Point(112.52921 32.99871),People's Republic of China,Asia,Putonghua
+Baicheng,1551378,Point(122.832 45.6148),People's Republic of China,Asia,Putonghua
+Liaocheng,5952128,Point(115.983333333 36.45),People's Republic of China,Asia,Putonghua
+Loudi,3931800,Point(111.99742 27.73776),People's Republic of China,Asia,Putonghua
+Xinxiang,5708191,Point(113.88515 35.29917),People's Republic of China,Asia,Putonghua
+Xinyu,1202499,Point(114.924167 27.795),People's Republic of China,Asia,Putonghua
+Xinzhou,3067501,Point(112.7233 38.41778),People's Republic of China,Asia,Putonghua
+Ma'anshan,2159930,Point(118.360472 31.713531),People's Republic of China,Asia,Putonghua
+Harbin,10009854,Point(126.633333333 45.75),People's Republic of China,Asia,Putonghua
+Baicheng,2032356,Point(122.832 45.6148),People's Republic of China,Asia,Putonghua
+Jinan,9202432,Point(116.983333333 36.666666666),People's Republic of China,Asia,Putonghua
+Jiaozuo,3590700,Point(113.2304 35.22904),People's Republic of China,Asia,Putonghua
+Pingdingshan,4987137,Point(113.29992 33.73499),People's Republic of China,Asia,Putonghua
+Xinyang,6234401,Point(114.06722 32.12641),People's Republic of China,Asia,Putonghua
+Wuhu,3644420,Point(118.36223 31.33398),People's Republic of China,Asia,Putonghua
+Ganzhou,8970014,Point(114.933611111 25.829166666),People's Republic of China,Asia,Putonghua
+Xuchang,4307488,Point(113.82014 34.02444),People's Republic of China,Asia,Putonghua
+Dongying,2193518,Point(118.466666666 37.45),People's Republic of China,Asia,Putonghua
+Anqing,4165284,Point(117.033333333 30.5),People's Republic of China,Asia,Putonghua
+Hebi,1569208,Point(114.2887 35.74975),People's Republic of China,Asia,Putonghua
+Lüliang,3727068,Point(111.13545 37.52028),People's Republic of China,Asia,Putonghua
+Yiyang,3851564,Point(112.333333333 28.583333333),People's Republic of China,Asia,Putonghua
+Songyuan,2750000,Point(124.808 45.1388),People's Republic of China,Asia,Putonghua
+Pingxiang,1804805,Point(113.85 27.633333333),People's Republic of China,Asia,Putonghua
+Yuncheng,4774508,Point(110.99796 35.03042),People's Republic of China,Asia,Putonghua
+Songyuan,2252994,Point(124.808 45.1388),People's Republic of China,Asia,Putonghua
+Linfen,3976481,Point(111.50865 36.08121),People's Republic of China,Asia,Putonghua
+Huaibei,1970265,Point(116.78904 33.95618),People's Republic of China,Asia,Putonghua
+Jiaozuo,3521078,Point(113.2304 35.22904),People's Republic of China,Asia,Putonghua
+Changde,5279102,Point(111.6839 29.03966),People's Republic of China,Asia,Putonghua
+Yingtan,1154223,Point(117.0 28.233333333),People's Republic of China,Asia,Putonghua
+Chenzhou,4667134,Point(113.02667 25.79893),People's Republic of China,Asia,Putonghua
+Puyang,3772088,Point(115.02996 35.76392),People's Republic of China,Asia,Putonghua
+Baishan,1296127,Point(126.41794 41.93771),People's Republic of China,Asia,Putonghua
+Xinxiang,6251929,Point(113.88515 35.29917),People's Republic of China,Asia,Putonghua
+Yingtan,1175000,Point(117.0 28.233333333),People's Republic of China,Asia,Putonghua
+Puyang,3598740,Point(115.02996 35.76392),People's Republic of China,Asia,Putonghua
+Luohe,2367490,Point(114.0109 33.58299),People's Republic of China,Asia,Putonghua
+Xuchang,4379998,Point(113.82014 34.02444),People's Republic of China,Asia,Putonghua
+Xinzhou,2689668,Point(112.7233 38.41778),People's Republic of China,Asia,Putonghua
+Weihai,2906548,Point(122.1 37.5),People's Republic of China,Asia,Putonghua
+Ma'anshan,2159930,Point(118.51008 31.68579),People's Republic of China,Asia,Putonghua
+Xinyu,1186700,Point(114.924167 27.795),People's Republic of China,Asia,Putonghua
+Sanmenxia,2034872,Point(111.19497 34.77362),People's Republic of China,Asia,Putonghua
+Pingdingshan,4904701,Point(113.29992 33.73499),People's Republic of China,Asia,Putonghua
+Lüliang,3398431,Point(111.13545 37.52028),People's Republic of China,Asia,Putonghua
+Changde,5827200,Point(111.6839 29.03966),People's Republic of China,Asia,Putonghua
+Lanzhou,3616163,Point(103.83177 36.06171),People's Republic of China,Asia,Putonghua
+Guilin,5085500,Point(110.283333333 25.266666666),People's Republic of China,Asia,Putonghua
+Nanchang,5042566,Point(115.887222 28.684167),People's Republic of China,Asia,Putonghua
+Guiyang,5987018,Point(106.707777777 26.579444444),People's Republic of China,Asia,Putonghua
+Jingdezhen,1673200,Point(117.203611 29.294167),People's Republic of China,Asia,Putonghua
+Bayannur,1538715,Point(107.414444444 40.756666666),People's Republic of China,Asia,Putonghua
+Chongzuo,2088692,Point(107.366666666 22.416666666),People's Republic of China,Asia,Putonghua
+Ordos City,2153638,Point(109.9975 39.815),People's Republic of China,Asia,Putonghua
+Lishui,2116957,Point(119.916666666 28.45),People's Republic of China,Asia,Putonghua
+Jingdezhen,1618979,Point(117.203611 29.294167),People's Republic of China,Asia,Putonghua
+Nanning,8741584,Point(108.31501 22.81918),People's Republic of China,Asia,Putonghua
+Zhongwei,1046000,Point(105.18838 37.51386),People's Republic of China,Asia,Putonghua
+Fuxin,1647280,Point(121.648553 42.012669),People's Republic of China,Asia,Putonghua
+Hefei,9369881,Point(117.28083 31.86389),People's Republic of China,Asia,Putonghua
+Zibo,4704138,Point(118.049722 36.783056),People's Republic of China,Asia,Putonghua
+Zhangjiajie,1517027,Point(110.48442 29.12548),People's Republic of China,Asia,Putonghua
+Huangshan,1330565,Point(118.31506 29.71318),People's Republic of China,Asia,Putonghua
+Maoming,6174050,Point(110.91783 21.66182),People's Republic of China,Asia,Putonghua
+Nanchang,4331668,Point(115.887222 28.684167),People's Republic of China,Asia,Putonghua
+Bazhong,2712894,Point(106.75586 31.85764),People's Republic of China,Asia,Putonghua
+Chongzuo,2099400,Point(107.366666666 22.416666666),People's Republic of China,Asia,Putonghua
+Luoyang,7056699,Point(112.453611111 34.683611111),People's Republic of China,Asia,Putonghua
+Shaoyang,6563520,Point(111.47247 27.24176),People's Republic of China,Asia,Putonghua
+Jixi,1862165,Point(130.96496 45.29366),People's Republic of China,Asia,Putonghua
+Fuxin,1819339,Point(121.648553 42.012669),People's Republic of China,Asia,Putonghua
+Guiyang,4881900,Point(106.707777777 26.579444444),People's Republic of China,Asia,Putonghua
+Bazhong,3283148,Point(106.75586 31.85764),People's Republic of China,Asia,Putonghua
+Guilin,4931137,Point(110.286388888 25.281944444),People's Republic of China,Asia,Putonghua
+Dingxi,2524097,Point(104.626278 35.580611),People's Republic of China,Asia,Putonghua
+Bayannur,1669915,Point(107.414444444 40.756666666),People's Republic of China,Asia,Putonghua
+Haikou,2873358,Point(110.32 20.02),People's Republic of China,Asia,Putonghua
+Luoyang,7056699,Point(112.42447 34.65867),People's Republic of China,Asia,Putonghua
+Jinzhou,2703853,Point(121.129166666 41.114444444),People's Republic of China,Asia,Putonghua
+Jinzhou,3126463,Point(121.129166666 41.114444444),People's Republic of China,Asia,Putonghua
+Maoming,6313200,Point(110.91783 21.66182),People's Republic of China,Asia,Putonghua
+Guilin,4931137,Point(110.283333333 25.266666666),People's Republic of China,Asia,Putonghua
+Lishui,2507396,Point(119.916666666 28.45),People's Republic of China,Asia,Putonghua
+Zhangjiajie,1537900,Point(110.48442 29.12548),People's Republic of China,Asia,Putonghua
+Foshan,9498863,Point(113.105556 23.029167),People's Republic of China,Asia,Putonghua
+Hulunbuir,2242875,Point(119.75097 49.21534),People's Republic of China,Asia,Putonghua
+Jiamusi,2552097,Point(130.36531 46.80808),People's Republic of China,Asia,Putonghua
+Bangkok,5676648,Point(100.516666666 13.75),Thonburi Kingdom,Asia,
+Tripoli,1293016,Point(13.18746 32.87519),Italian Tripolitania,Africa,
+Montevideo,1302954,Point(-56.191311111 -34.905916666),Uruguay,South America,
+Addis Ababa,5704000,Point(38.736944444 9.027222222),Ethiopia,Africa,
+Shangqiu,7816831,Point(115.64673 34.42592),Song,Asia,
+Ürümqi,4054369,Point(87.6125 43.8225),People's Republic of China,Asia,Putonghua
+Zunyi,6270700,Point(106.93363 27.70498),People's Republic of China,Asia,Putonghua
+Xuancheng,2500063,Point(118.75178 30.94751),People's Republic of China,Asia,Putonghua
+Chizhou,1342764,Point(117.48487 30.65826),People's Republic of China,Asia,Putonghua
+Ji'an,4469176,Point(114.97927 27.11716),People's Republic of China,Asia,Putonghua
+Ji'an,4956600,Point(114.97927 27.11716),People's Republic of China,Asia,Putonghua
+Yichun,5007702,Point(114.38303 27.80412),People's Republic of China,Asia,Putonghua
+Sanya,1031396,Point(109.503611111 18.253333333),People's Republic of China,Asia,Putonghua
+Zunyi,6606675,Point(106.93363 27.70498),People's Republic of China,Asia,Putonghua
+Zhengzhou,12600574,Point(113.66051 34.74919),People's Republic of China,Asia,Putonghua
+Bozhou,4996844,Point(115.77422 33.86264),People's Republic of China,Asia,Putonghua
+Jieyang,5577814,Point(116.36495 23.55334),People's Republic of China,Asia,Putonghua
+Zhengzhou,10136000,Point(113.66051 34.74919),People's Republic of China,Asia,Putonghua
