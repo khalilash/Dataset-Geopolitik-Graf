@@ -1,0 +1,557 @@
+Country1,Country2,similarity,shared_attributes
+Peru,Bolivia,0.4444444444444444,"[South America, Spanish, Aymara, Quechua]"
+Bolivia,Peru,0.4444444444444444,"[South America, Spanish, Aymara, Quechua]"
+Chad,Republic of the Congo,0.42857142857142855,"[Africa, French, Central African CFA franc]"
+Republic of the Congo,Chad,0.42857142857142855,"[Africa, French, Central African CFA franc]"
+Germany,Austria,0.42857142857142855,"[Europe, German, Euro]"
+Austria,Germany,0.42857142857142855,"[Europe, German, Euro]"
+Chile,Peru,0.4,"[South America, Spanish, Chilean peso]"
+Peru,Chile,0.4,"[South America, Spanish, Chilean peso]"
+Honduras,Cuba,0.3333333333333333,"[North America, Spanish]"
+Chad,Cameroon,0.3333333333333333,"[Africa, French, Central African CFA franc]"
+Republic of the Congo,Cameroon,0.3333333333333333,"[Africa, French, Central African CFA franc]"
+Cameroon,Republic of the Congo,0.3333333333333333,"[Africa, French, Central African CFA franc]"
+Cameroon,Chad,0.3333333333333333,"[Africa, French, Central African CFA franc]"
+Cuba,Honduras,0.3333333333333333,"[North America, Spanish]"
+Lebanon,Oman,0.3333333333333333,"[Asia, Arabic]"
+Lebanon,Kuwait,0.3333333333333333,"[Asia, Arabic]"
+Kuwait,Oman,0.3333333333333333,"[Asia, Arabic]"
+Kuwait,Lebanon,0.3333333333333333,"[Asia, Arabic]"
+Oman,Kuwait,0.3333333333333333,"[Asia, Arabic]"
+Oman,Lebanon,0.3333333333333333,"[Asia, Arabic]"
+Dominican Republic,Chile,0.3,"[Spanish, Dominican peso]"
+Chile,Dominican Republic,0.3,"[Spanish, Dominican peso]"
+Chad,Mauritania,0.2857142857142857,"[Africa, Arabic]"
+Cuba,Dominican Republic,0.2857142857142857,"[North America, Spanish]"
+Honduras,Dominican Republic,0.2857142857142857,"[North America, Spanish]"
+Dominican Republic,Honduras,0.2857142857142857,"[North America, Spanish]"
+Dominican Republic,Cuba,0.2857142857142857,"[North America, Spanish]"
+Liberia,Ghana,0.2857142857142857,"[Africa, English]"
+Jordan,Kuwait,0.2857142857142857,"[Asia, Arabic]"
+Jordan,Oman,0.2857142857142857,"[Asia, Arabic]"
+Jordan,Lebanon,0.2857142857142857,"[Asia, Arabic]"
+Lebanon,Jordan,0.2857142857142857,"[Asia, Arabic]"
+Kuwait,Jordan,0.2857142857142857,"[Asia, Arabic]"
+Oman,Jordan,0.2857142857142857,"[Asia, Arabic]"
+Algeria,Mauritania,0.2857142857142857,"[Africa, Arabic]"
+Angola,Mozambique,0.2857142857142857,"[Africa, Portuguese]"
+Mozambique,Angola,0.2857142857142857,"[Africa, Portuguese]"
+Ghana,Liberia,0.2857142857142857,"[Africa, English]"
+Mauritania,Algeria,0.2857142857142857,"[Africa, Arabic]"
+Mauritania,Chad,0.2857142857142857,"[Africa, Arabic]"
+Kenya,Liberia,0.25,"[Africa, English]"
+Chad,Guinea,0.25,"[Africa, French]"
+Chad,Algeria,0.25,"[Africa, Arabic]"
+Chad,Madagascar,0.25,"[Africa, French]"
+Republic of the Congo,Guinea,0.25,"[Africa, French]"
+Republic of the Congo,Madagascar,0.25,"[Africa, French]"
+Madagascar,Republic of the Congo,0.25,"[Africa, French]"
+Madagascar,Guinea,0.25,"[Africa, French]"
+Madagascar,Chad,0.25,"[Africa, French]"
+Guinea,Republic of the Congo,0.25,"[Africa, French]"
+Guinea,Madagascar,0.25,"[Africa, French]"
+Guinea,Chad,0.25,"[Africa, French]"
+Germany,Italy,0.25,"[Europe, Euro]"
+Germany,Spain,0.25,"[Europe, Euro]"
+Austria,Italy,0.25,"[Europe, Euro]"
+Austria,Spain,0.25,"[Europe, Euro]"
+Spain,Austria,0.25,"[Europe, Euro]"
+Spain,Italy,0.25,"[Europe, Euro]"
+Spain,Germany,0.25,"[Europe, Euro]"
+Italy,Spain,0.25,"[Europe, Euro]"
+Italy,Austria,0.25,"[Europe, Euro]"
+Italy,Germany,0.25,"[Europe, Euro]"
+Liberia,Kenya,0.25,"[Africa, English]"
+Algeria,Chad,0.25,"[Africa, Arabic]"
+Oman,Iraq,0.2222222222222222,"[Asia, Arabic]"
+Cameroon,Liberia,0.2222222222222222,"[Africa, English]"
+Argentina,Peru,0.2222222222222222,"[South America, Spanish]"
+Iraq,Kuwait,0.2222222222222222,"[Asia, Arabic]"
+Iraq,Oman,0.2222222222222222,"[Asia, Arabic]"
+Iraq,Lebanon,0.2222222222222222,"[Asia, Arabic]"
+Lebanon,Iraq,0.2222222222222222,"[Asia, Arabic]"
+Kuwait,Iraq,0.2222222222222222,"[Asia, Arabic]"
+Kenya,Ghana,0.2222222222222222,"[Africa, English]"
+Ghana,Kenya,0.2222222222222222,"[Africa, English]"
+Morocco,Mauritania,0.2222222222222222,"[Africa, Arabic]"
+Mauritania,Morocco,0.2222222222222222,"[Africa, Arabic]"
+Peru,Argentina,0.2222222222222222,"[South America, Spanish]"
+Liberia,Cameroon,0.2222222222222222,"[Africa, English]"
+Bolivia,Argentina,0.2,"[South America, Spanish]"
+Jordan,Iraq,0.2,"[Asia, Arabic]"
+Iraq,Jordan,0.2,"[Asia, Arabic]"
+Algeria,Morocco,0.2,"[Africa, Arabic]"
+Chad,Morocco,0.2,"[Africa, Arabic]"
+Cameroon,Guinea,0.2,"[Africa, French]"
+Cameroon,Ghana,0.2,"[Africa, English]"
+Cameroon,Madagascar,0.2,"[Africa, French]"
+Madagascar,Cameroon,0.2,"[Africa, French]"
+Guinea,Cameroon,0.2,"[Africa, French]"
+Colombia,Argentina,0.2,"[South America, Spanish]"
+Argentina,Bolivia,0.2,"[South America, Spanish]"
+Argentina,Colombia,0.2,"[South America, Spanish]"
+Ghana,Cameroon,0.2,"[Africa, English]"
+Morocco,Algeria,0.2,"[Africa, Arabic]"
+Morocco,Chad,0.2,"[Africa, Arabic]"
+Kenya,Cameroon,0.18181818181818182,"[Africa, English]"
+Chile,Argentina,0.18181818181818182,"[South America, Spanish]"
+Peru,Colombia,0.18181818181818182,"[South America, Spanish]"
+Kazakhstan,Belarus,0.18181818181818182,"[Europe, Russian]"
+Belarus,Kazakhstan,0.18181818181818182,"[Europe, Russian]"
+Nigeria,Liberia,0.18181818181818182,"[Africa, English]"
+Liberia,Nigeria,0.18181818181818182,"[Africa, English]"
+Cameroon,Kenya,0.18181818181818182,"[Africa, English]"
+Colombia,Peru,0.18181818181818182,"[South America, Spanish]"
+Argentina,Chile,0.18181818181818182,"[South America, Spanish]"
+Chad,Democratic Republic of the Congo,0.16666666666666666,"[Africa, French]"
+Republic of the Congo,Democratic Republic of the Congo,0.16666666666666666,"[Africa, French]"
+Democratic Republic of the Congo,Republic of the Congo,0.16666666666666666,"[Africa, French]"
+Democratic Republic of the Congo,Guinea,0.16666666666666666,"[Africa, French]"
+Democratic Republic of the Congo,Madagascar,0.16666666666666666,"[Africa, French]"
+Democratic Republic of the Congo,Chad,0.16666666666666666,"[Africa, French]"
+Madagascar,Democratic Republic of the Congo,0.16666666666666666,"[Africa, French]"
+Guinea,Democratic Republic of the Congo,0.16666666666666666,"[Africa, French]"
+Cuba,Mexico,0.16666666666666666,"[North America, Spanish]"
+Mexico,Honduras,0.16666666666666666,"[North America, Spanish]"
+Mexico,Cuba,0.16666666666666666,"[North America, Spanish]"
+Colombia,Bolivia,0.16666666666666666,"[South America, Spanish]"
+Ghana,Nigeria,0.16666666666666666,"[Africa, English]"
+Portugal,Nigeria,0.16666666666666666,[Nigerian naira]
+Honduras,Mexico,0.16666666666666666,"[North America, Spanish]"
+Bolivia,Colombia,0.16666666666666666,"[South America, Spanish]"
+Nigeria,Portugal,0.16666666666666666,[Nigerian naira]
+Nigeria,Ghana,0.16666666666666666,"[Africa, English]"
+Chile,Bolivia,0.15384615384615385,"[South America, Spanish]"
+Chile,Morocco,0.15384615384615385,[Moroccan dirham]
+Chile,Colombia,0.15384615384615385,"[South America, Spanish]"
+Dominican Republic,Mexico,0.15384615384615385,"[North America, Spanish]"
+Bolivia,Chile,0.15384615384615385,"[South America, Spanish]"
+Nigeria,Kenya,0.15384615384615385,"[Africa, English]"
+Mexico,Dominican Republic,0.15384615384615385,"[North America, Spanish]"
+Colombia,Chile,0.15384615384615385,"[South America, Spanish]"
+Kenya,Nigeria,0.15384615384615385,"[Africa, English]"
+Morocco,Chile,0.15384615384615385,[Moroccan dirham]
+Angola,Ethiopia,0.14285714285714285,[Africa]
+Angola,Mauritania,0.14285714285714285,[Africa]
+Angola,Liberia,0.14285714285714285,[Africa]
+Afghanistan,Kuwait,0.14285714285714285,"[Asia, Arabic]"
+Afghanistan,Oman,0.14285714285714285,"[Asia, Arabic]"
+Afghanistan,Lebanon,0.14285714285714285,"[Asia, Arabic]"
+Bangladesh,Malaysia,0.14285714285714285,[Asia]
+Bangladesh,Kuwait,0.14285714285714285,[Asia]
+Bangladesh,Lebanon,0.14285714285714285,[Asia]
+Bangladesh,Mongolia,0.14285714285714285,[Asia]
+Bangladesh,Kyrgyzstan,0.14285714285714285,[Asia]
+Bangladesh,Oman,0.14285714285714285,[Asia]
+Bangladesh,Cambodia,0.14285714285714285,[Asia]
+Mauritania,Lebanon,0.14285714285714285,[Arabic]
+Mauritania,Ethiopia,0.14285714285714285,[Africa]
+Mauritania,Angola,0.14285714285714285,[Africa]
+Mauritania,Oman,0.14285714285714285,[Arabic]
+Mauritania,Kuwait,0.14285714285714285,[Arabic]
+Mauritania,Liberia,0.14285714285714285,[Africa]
+Bulgaria,Hungary,0.14285714285714285,[Europe]
+Bulgaria,Czech Republic,0.14285714285714285,[Europe]
+Czech Republic,Hungary,0.14285714285714285,[Europe]
+Czech Republic,Bulgaria,0.14285714285714285,[Europe]
+Nigeria,Cameroon,0.14285714285714285,"[Africa, English]"
+Liberia,Ethiopia,0.14285714285714285,[Africa]
+Liberia,Mauritania,0.14285714285714285,[Africa]
+Liberia,Angola,0.14285714285714285,[Africa]
+Kuwait,Mauritania,0.14285714285714285,[Arabic]
+Kuwait,Mongolia,0.14285714285714285,[Asia]
+Kuwait,Afghanistan,0.14285714285714285,"[Asia, Arabic]"
+Oman,Bangladesh,0.14285714285714285,[Asia]
+Oman,Malaysia,0.14285714285714285,[Asia]
+Oman,Cambodia,0.14285714285714285,[Asia]
+Oman,Mauritania,0.14285714285714285,[Arabic]
+Oman,Mongolia,0.14285714285714285,[Asia]
+Oman,Afghanistan,0.14285714285714285,"[Asia, Arabic]"
+Kyrgyzstan,Cambodia,0.14285714285714285,[Asia]
+Kyrgyzstan,Lebanon,0.14285714285714285,[Asia]
+Kyrgyzstan,Mongolia,0.14285714285714285,[Asia]
+Kyrgyzstan,Malaysia,0.14285714285714285,[Asia]
+Kyrgyzstan,Oman,0.14285714285714285,[Asia]
+Kyrgyzstan,Kuwait,0.14285714285714285,[Asia]
+Kyrgyzstan,Bangladesh,0.14285714285714285,[Asia]
+Ethiopia,Angola,0.14285714285714285,[Africa]
+Ethiopia,Mauritania,0.14285714285714285,[Africa]
+Ethiopia,Liberia,0.14285714285714285,[Africa]
+Cambodia,Malaysia,0.14285714285714285,[Asia]
+Cambodia,Kuwait,0.14285714285714285,[Asia]
+Cambodia,Lebanon,0.14285714285714285,[Asia]
+Cambodia,Mongolia,0.14285714285714285,[Asia]
+Cambodia,Kyrgyzstan,0.14285714285714285,[Asia]
+Cambodia,Oman,0.14285714285714285,[Asia]
+Cambodia,Bangladesh,0.14285714285714285,[Asia]
+Hungary,Czech Republic,0.14285714285714285,[Europe]
+Hungary,Bulgaria,0.14285714285714285,[Europe]
+Malaysia,Cambodia,0.14285714285714285,[Asia]
+Malaysia,Kuwait,0.14285714285714285,[Asia]
+Malaysia,Lebanon,0.14285714285714285,[Asia]
+Malaysia,Mongolia,0.14285714285714285,[Asia]
+Malaysia,Kyrgyzstan,0.14285714285714285,[Asia]
+Malaysia,Oman,0.14285714285714285,[Asia]
+Malaysia,Bangladesh,0.14285714285714285,[Asia]
+Mongolia,Cambodia,0.14285714285714285,[Asia]
+Mongolia,Kuwait,0.14285714285714285,[Asia]
+Mongolia,Lebanon,0.14285714285714285,[Asia]
+Mongolia,Malaysia,0.14285714285714285,[Asia]
+Mongolia,Kyrgyzstan,0.14285714285714285,[Asia]
+Mongolia,Oman,0.14285714285714285,[Asia]
+Mongolia,Bangladesh,0.14285714285714285,[Asia]
+Lebanon,Bangladesh,0.14285714285714285,[Asia]
+Lebanon,Malaysia,0.14285714285714285,[Asia]
+Lebanon,Cambodia,0.14285714285714285,[Asia]
+Lebanon,Mauritania,0.14285714285714285,[Arabic]
+Lebanon,Mongolia,0.14285714285714285,[Asia]
+Lebanon,Afghanistan,0.14285714285714285,"[Asia, Arabic]"
+Kuwait,Bangladesh,0.14285714285714285,[Asia]
+Kuwait,Malaysia,0.14285714285714285,[Asia]
+Kuwait,Cambodia,0.14285714285714285,[Asia]
+Cameroon,Nigeria,0.14285714285714285,"[Africa, English]"
+Cameroon,Democratic Republic of the Congo,0.14285714285714285,"[Africa, French]"
+Democratic Republic of the Congo,Cameroon,0.14285714285714285,"[Africa, French]"
+Afghanistan,Jordan,0.13333333333333333,"[Asia, Arabic]"
+Jordan,Afghanistan,0.13333333333333333,"[Asia, Arabic]"
+Cambodia,North Korea,0.125,[Asia]
+Cambodia,Jordan,0.125,[Asia]
+Cambodia,Armenia,0.125,[Asia]
+Armenia,Cambodia,0.125,[Asia]
+Armenia,Lebanon,0.125,[Asia]
+Armenia,Mongolia,0.125,[Asia]
+Armenia,Malaysia,0.125,[Asia]
+Armenia,Kyrgyzstan,0.125,[Asia]
+Armenia,Oman,0.125,[Asia]
+Armenia,Kuwait,0.125,[Asia]
+Armenia,Bangladesh,0.125,[Asia]
+Hungary,Spain,0.125,[Europe]
+Hungary,Portugal,0.125,[Europe]
+Hungary,Italy,0.125,[Europe]
+Hungary,Belarus,0.125,[Europe]
+Hungary,Austria,0.125,[Europe]
+Hungary,Germany,0.125,[Europe]
+North Korea,Cambodia,0.125,[Asia]
+North Korea,Lebanon,0.125,[Asia]
+North Korea,Mongolia,0.125,[Asia]
+North Korea,Malaysia,0.125,[Asia]
+North Korea,Kyrgyzstan,0.125,[Asia]
+North Korea,Oman,0.125,[Asia]
+North Korea,Kuwait,0.125,[Asia]
+North Korea,Bangladesh,0.125,[Asia]
+Malaysia,North Korea,0.125,[Asia]
+Malaysia,Jordan,0.125,[Asia]
+Malaysia,Armenia,0.125,[Asia]
+Mongolia,North Korea,0.125,[Asia]
+Mongolia,Jordan,0.125,[Asia]
+Mongolia,Armenia,0.125,[Asia]
+Jordan,Malaysia,0.125,[Asia]
+Jordan,Cambodia,0.125,[Asia]
+Jordan,Mauritania,0.125,[Arabic]
+Jordan,Mongolia,0.125,[Asia]
+Jordan,Bangladesh,0.125,[Asia]
+Chad,Lebanon,0.125,[Arabic]
+Chad,Angola,0.125,[Africa]
+Republic of the Congo,Mauritania,0.125,[Africa]
+Republic of the Congo,Angola,0.125,[Africa]
+Republic of the Congo,Ethiopia,0.125,[Africa]
+Republic of the Congo,Liberia,0.125,[Africa]
+Madagascar,Mauritania,0.125,[Africa]
+Madagascar,Angola,0.125,[Africa]
+Madagascar,Ethiopia,0.125,[Africa]
+Madagascar,Liberia,0.125,[Africa]
+Guinea,Mauritania,0.125,[Africa]
+Guinea,Angola,0.125,[Africa]
+Guinea,Ethiopia,0.125,[Africa]
+Guinea,Liberia,0.125,[Africa]
+Germany,Hungary,0.125,[Europe]
+Germany,Czech Republic,0.125,[Europe]
+Germany,Bulgaria,0.125,[Europe]
+Cuba,Argentina,0.125,[Spanish]
+Cuba,Spain,0.125,[Spanish]
+Austria,Hungary,0.125,[Europe]
+Austria,Czech Republic,0.125,[Europe]
+Austria,Bulgaria,0.125,[Europe]
+Spain,Bulgaria,0.125,[Europe]
+Spain,Hungary,0.125,[Europe]
+Spain,Czech Republic,0.125,[Europe]
+Spain,Honduras,0.125,[Spanish]
+Spain,Cuba,0.125,[Spanish]
+Argentina,Honduras,0.125,[Spanish]
+Argentina,Cuba,0.125,[Spanish]
+Algeria,Angola,0.125,[Africa]
+Algeria,Ethiopia,0.125,[Africa]
+Algeria,Oman,0.125,[Arabic]
+Algeria,Kuwait,0.125,[Arabic]
+Algeria,Lebanon,0.125,[Arabic]
+Algeria,Liberia,0.125,[Africa]
+Kyrgyzstan,Jordan,0.125,[Asia]
+Kyrgyzstan,North Korea,0.125,[Asia]
+Kyrgyzstan,Armenia,0.125,[Asia]
+Ethiopia,Republic of the Congo,0.125,[Africa]
+Ethiopia,Algeria,0.125,[Africa]
+Ethiopia,Madagascar,0.125,[Africa]
+Ethiopia,Ghana,0.125,[Africa]
+Ethiopia,Mozambique,0.125,[Africa]
+Ethiopia,Guinea,0.125,[Africa]
+Ethiopia,Chad,0.125,[Africa]
+Honduras,Argentina,0.125,[Spanish]
+Honduras,Spain,0.125,[Spanish]
+Belarus,Hungary,0.125,[Europe]
+Belarus,Czech Republic,0.125,[Europe]
+Belarus,Bulgaria,0.125,[Europe]
+Bulgaria,Spain,0.125,[Europe]
+Bulgaria,Belarus,0.125,[Europe]
+Bulgaria,Portugal,0.125,[Europe]
+Bulgaria,Italy,0.125,[Europe]
+Bulgaria,Austria,0.125,[Europe]
+Bulgaria,Germany,0.125,[Europe]
+Italy,Hungary,0.125,[Europe]
+Italy,Czech Republic,0.125,[Europe]
+Italy,Bulgaria,0.125,[Europe]
+Czech Republic,Spain,0.125,[Europe]
+Czech Republic,Italy,0.125,[Europe]
+Czech Republic,Portugal,0.125,[Europe]
+Czech Republic,Belarus,0.125,[Europe]
+Czech Republic,Austria,0.125,[Europe]
+Czech Republic,Germany,0.125,[Europe]
+Liberia,Madagascar,0.125,[Africa]
+Liberia,Mozambique,0.125,[Africa]
+Liberia,Guinea,0.125,[Africa]
+Azerbaijan,Cambodia,0.125,[Asia]
+Azerbaijan,Lebanon,0.125,[Asia]
+Azerbaijan,Mongolia,0.125,[Asia]
+Azerbaijan,Malaysia,0.125,[Asia]
+Azerbaijan,Kyrgyzstan,0.125,[Asia]
+Azerbaijan,Oman,0.125,[Asia]
+Azerbaijan,Kuwait,0.125,[Asia]
+Azerbaijan,Bangladesh,0.125,[Asia]
+Angola,Republic of the Congo,0.125,[Africa]
+Angola,Algeria,0.125,[Africa]
+Angola,Portugal,0.125,[Portuguese]
+Angola,Madagascar,0.125,[Africa]
+Angola,Ghana,0.125,[Africa]
+Angola,Guinea,0.125,[Africa]
+Mozambique,Ethiopia,0.125,[Africa]
+Mozambique,Mauritania,0.125,[Africa]
+Mozambique,Liberia,0.125,[Africa]
+Ghana,Ethiopia,0.125,[Africa]
+Ghana,Mauritania,0.125,[Africa]
+Ghana,Angola,0.125,[Africa]
+Bangladesh,North Korea,0.125,[Asia]
+Bangladesh,Jordan,0.125,[Asia]
+Bangladesh,Armenia,0.125,[Asia]
+Mauritania,Jordan,0.125,[Arabic]
+Portugal,Hungary,0.125,[Europe]
+Portugal,Angola,0.125,[Portuguese]
+Portugal,Czech Republic,0.125,[Europe]
+Portugal,Bulgaria,0.125,[Europe]
+Afghanistan,Iraq,0.11764705882352941,"[Asia, Arabic]"
+Iraq,Afghanistan,0.11764705882352941,"[Asia, Arabic]"
+Armenia,Jordan,0.1111111111111111,[Asia]
+Armenia,North Korea,0.1111111111111111,[Asia]
+North Korea,Jordan,0.1111111111111111,[Asia]
+North Korea,Armenia,0.1111111111111111,[Asia]
+Myanmar,Cambodia,0.1111111111111111,[Asia]
+Myanmar,Lebanon,0.1111111111111111,[Asia]
+Myanmar,Mongolia,0.1111111111111111,[Asia]
+Myanmar,Malaysia,0.1111111111111111,[Asia]
+Myanmar,Kyrgyzstan,0.1111111111111111,[Asia]
+Myanmar,Oman,0.1111111111111111,[Asia]
+Myanmar,Kuwait,0.1111111111111111,[Asia]
+Myanmar,Bangladesh,0.1111111111111111,[Asia]
+Iran,Cambodia,0.1111111111111111,[Asia]
+Iran,Lebanon,0.1111111111111111,[Asia]
+Iran,Mongolia,0.1111111111111111,[Asia]
+Iran,Malaysia,0.1111111111111111,[Asia]
+Iran,Kyrgyzstan,0.1111111111111111,[Asia]
+Iran,Oman,0.1111111111111111,[Asia]
+Iran,Kuwait,0.1111111111111111,[Asia]
+Iran,Bangladesh,0.1111111111111111,[Asia]
+Mozambique,Republic of the Congo,0.1111111111111111,[Africa]
+Mozambique,Algeria,0.1111111111111111,[Africa]
+Mozambique,Portugal,0.1111111111111111,[Portuguese]
+Mozambique,Madagascar,0.1111111111111111,[Africa]
+Mozambique,Ghana,0.1111111111111111,[Africa]
+Mozambique,Guinea,0.1111111111111111,[Africa]
+Kenya,Ethiopia,0.1111111111111111,[Africa]
+Kenya,Mauritania,0.1111111111111111,[Africa]
+Kenya,Angola,0.1111111111111111,[Africa]
+Ghana,Mozambique,0.1111111111111111,[Africa]
+Ghana,Madagascar,0.1111111111111111,[Africa]
+Ghana,Guinea,0.1111111111111111,[Africa]
+New Zealand,Liberia,0.1111111111111111,[English]
+Portugal,Mozambique,0.1111111111111111,[Portuguese]
+Portugal,Spain,0.1111111111111111,[Europe]
+Portugal,Italy,0.1111111111111111,[Europe]
+Portugal,Belarus,0.1111111111111111,[Europe]
+Portugal,Austria,0.1111111111111111,[Europe]
+Brazil,Angola,0.1111111111111111,[Portuguese]
+Algeria,Madagascar,0.1111111111111111,[Africa]
+Republic of the Congo,Ghana,0.1111111111111111,[Africa]
+Madagascar,Ghana,0.1111111111111111,[Africa]
+Guinea,Ghana,0.1111111111111111,[Africa]
+Germany,Portugal,0.1111111111111111,[Europe]
+Germany,Belarus,0.1111111111111111,[Europe]
+Cuba,Peru,0.1111111111111111,[Spanish]
+Austria,Portugal,0.1111111111111111,[Europe]
+Austria,Belarus,0.1111111111111111,[Europe]
+Spain,Belarus,0.1111111111111111,[Europe]
+Spain,Dominican Republic,0.1111111111111111,[Spanish]
+Argentina,Dominican Republic,0.1111111111111111,[Spanish]
+Argentina,Spain,0.1111111111111111,[Spanish]
+Honduras,Peru,0.1111111111111111,[Spanish]
+Dominican Republic,Argentina,0.1111111111111111,[Spanish]
+Dominican Republic,Spain,0.1111111111111111,[Spanish]
+Peru,Honduras,0.1111111111111111,[Spanish]
+Peru,Cuba,0.1111111111111111,[Spanish]
+Belarus,Portugal,0.1111111111111111,[Europe]
+Belarus,Italy,0.1111111111111111,[Europe]
+Belarus,Spain,0.1111111111111111,[Europe]
+Belarus,Austria,0.1111111111111111,[Europe]
+Belarus,Germany,0.1111111111111111,[Europe]
+Italy,Portugal,0.1111111111111111,[Europe]
+Italy,Belarus,0.1111111111111111,[Europe]
+Azerbaijan,Jordan,0.1111111111111111,[Asia]
+Azerbaijan,North Korea,0.1111111111111111,[Asia]
+Honduras,Bolivia,0.1,[Spanish]
+Honduras,Colombia,0.1,[Spanish]
+Dominican Republic,Peru,0.1,[Spanish]
+Peru,Dominican Republic,0.1,[Spanish]
+Peru,Spain,0.1,[Spanish]
+Bolivia,Honduras,0.1,[Spanish]
+Bolivia,Cuba,0.1,[Spanish]
+Myanmar,Jordan,0.1,[Asia]
+Myanmar,North Korea,0.1,[Asia]
+Iran,Jordan,0.1,[Asia]
+Iran,North Korea,0.1,[Asia]
+Iraq,Malaysia,0.1,[Asia]
+Iraq,Cambodia,0.1,[Asia]
+Iraq,Mauritania,0.1,[Arabic]
+Iraq,Mongolia,0.1,[Asia]
+Iraq,Bangladesh,0.1,[Asia]
+Kenya,Mozambique,0.1,[Africa]
+Kenya,Madagascar,0.1,[Africa]
+Kenya,Guinea,0.1,[Africa]
+New Zealand,Ghana,0.1,[English]
+Morocco,Ethiopia,0.1,[Africa]
+Morocco,Angola,0.1,[Africa]
+Morocco,Oman,0.1,[Arabic]
+Morocco,Kuwait,0.1,[Arabic]
+Morocco,Lebanon,0.1,[Arabic]
+Morocco,Liberia,0.1,[Africa]
+Brazil,Portugal,0.1,[Portuguese]
+Brazil,Mozambique,0.1,[Portuguese]
+Brazil,Argentina,0.1,[South America]
+Cameroon,Angola,0.1,[Africa]
+Cuba,Bolivia,0.1,[Spanish]
+Cuba,Colombia,0.1,[Spanish]
+Colombia,Honduras,0.1,[Spanish]
+Colombia,Cuba,0.1,[Spanish]
+Argentina,Brazil,0.1,[South America]
+Cuba,Chile,0.09090909090909091,[Spanish]
+Colombia,Dominican Republic,0.09090909090909091,[Spanish]
+Colombia,Spain,0.09090909090909091,[Spanish]
+Hungary,Kazakhstan,0.09090909090909091,[Europe]
+Chile,Honduras,0.09090909090909091,[Spanish]
+Chile,Cuba,0.09090909090909091,[Spanish]
+Honduras,Chile,0.09090909090909091,[Spanish]
+Dominican Republic,Bolivia,0.09090909090909091,[Spanish]
+Dominican Republic,Colombia,0.09090909090909091,[Spanish]
+Peru,Brazil,0.09090909090909091,[South America]
+Bolivia,Dominican Republic,0.09090909090909091,[Spanish]
+Bolivia,Spain,0.09090909090909091,[Spanish]
+Kazakhstan,Cambodia,0.09090909090909091,[Asia]
+Kazakhstan,Bangladesh,0.09090909090909091,[Asia]
+Kazakhstan,Czech Republic,0.09090909090909091,[Europe]
+Kazakhstan,Kuwait,0.09090909090909091,[Asia]
+Kazakhstan,Lebanon,0.09090909090909091,[Asia]
+Kazakhstan,Mongolia,0.09090909090909091,[Asia]
+Kazakhstan,Malaysia,0.09090909090909091,[Asia]
+Kazakhstan,Hungary,0.09090909090909091,[Europe]
+Kazakhstan,Bulgaria,0.09090909090909091,[Europe]
+Bulgaria,Kazakhstan,0.09090909090909091,[Europe]
+Czech Republic,Kazakhstan,0.09090909090909091,[Europe]
+New Zealand,Kenya,0.09090909090909091,[English]
+Brazil,Peru,0.09090909090909091,[South America]
+New Zealand,Cameroon,0.08333333333333333,[English]
+Brazil,Bolivia,0.08333333333333333,[South America]
+Brazil,Colombia,0.08333333333333333,[South America]
+Democratic Republic of the Congo,Mauritania,0.08333333333333333,[Africa]
+Democratic Republic of the Congo,Angola,0.08333333333333333,[Africa]
+Democratic Republic of the Congo,Ethiopia,0.08333333333333333,[Africa]
+Democratic Republic of the Congo,Liberia,0.08333333333333333,[Africa]
+Germany,Kazakhstan,0.08333333333333333,[Europe]
+Austria,Kazakhstan,0.08333333333333333,[Europe]
+Colombia,Brazil,0.08333333333333333,[South America]
+Chile,Spain,0.08333333333333333,[Spanish]
+Bolivia,Brazil,0.08333333333333333,[South America]
+Italy,Kazakhstan,0.08333333333333333,[Europe]
+Nigeria,Ethiopia,0.08333333333333333,[Africa]
+Nigeria,Mauritania,0.08333333333333333,[Africa]
+Nigeria,Angola,0.08333333333333333,[Africa]
+Chile,Brazil,0.07692307692307693,[South America]
+Nigeria,Madagascar,0.07692307692307693,[Africa]
+Nigeria,Mozambique,0.07692307692307693,[Africa]
+Brazil,Chile,0.07692307692307693,[South America]
+Democratic Republic of the Congo,Ghana,0.07692307692307693,[Africa]
+India,Pakistan,0.07547169811320754,"[Asia, English, Indian rupee]"
+Pakistan,India,0.07547169811320754,"[Asia, English, Indian rupee]"
+New Zealand,Australia,0.07142857142857142,[Oceania]
+New Zealand,Nigeria,0.07142857142857142,[English]
+Mexico,Argentina,0.07142857142857142,[Spanish]
+Mexico,Spain,0.07142857142857142,[Spanish]
+Argentina,Mexico,0.07142857142857142,[Spanish]
+Australia,New Zealand,0.07142857142857142,[Oceania]
+Peru,Mexico,0.06666666666666667,[Spanish]
+Mexico,Peru,0.06666666666666667,[Spanish]
+Afghanistan,Mauritania,0.06666666666666667,[Arabic]
+Afghanistan,Mongolia,0.06666666666666667,[Asia]
+Afghanistan,Malaysia,0.06666666666666667,[Asia]
+Afghanistan,Cambodia,0.06666666666666667,[Asia]
+Afghanistan,Bangladesh,0.06666666666666667,[Asia]
+Mexico,Bolivia,0.0625,[Spanish]
+Mexico,Colombia,0.0625,[Spanish]
+Colombia,Mexico,0.0625,[Spanish]
+Bolivia,Mexico,0.0625,[Spanish]
+Japan,Cambodia,0.0625,[Asia]
+Japan,Lebanon,0.0625,[Asia]
+Japan,Mongolia,0.0625,[Asia]
+Japan,Malaysia,0.0625,[Asia]
+Japan,Kyrgyzstan,0.0625,[Asia]
+Japan,Oman,0.0625,[Asia]
+Japan,Kuwait,0.0625,[Asia]
+Japan,Bangladesh,0.0625,[Asia]
+Japan,Jordan,0.058823529411764705,[Asia]
+Japan,North Korea,0.058823529411764705,[Asia]
+Mexico,Chile,0.058823529411764705,[Spanish]
+Pakistan,Malaysia,0.05555555555555555,[Asia]
+Pakistan,Cambodia,0.05555555555555555,[Asia]
+Pakistan,Bangladesh,0.05555555555555555,[Asia]
+Pakistan,Kyrgyzstan,0.05555555555555555,[Asia]
+Pakistan,Oman,0.05555555555555555,[Asia]
+Pakistan,Kuwait,0.05555555555555555,[Asia]
+Pakistan,Lebanon,0.05555555555555555,[Asia]
+Pakistan,Mongolia,0.05555555555555555,[Asia]
+Pakistan,Liberia,0.05555555555555555,[English]
+Indonesia,Kuwait,0.05263157894736842,[Asia]
+Indonesia,Bangladesh,0.05263157894736842,[Asia]
+Indonesia,Cambodia,0.05263157894736842,[Asia]
+Indonesia,Lebanon,0.05263157894736842,[Asia]
+Indonesia,Mongolia,0.05263157894736842,[Asia]
+Indonesia,Malaysia,0.05263157894736842,[Asia]
+Indonesia,Kyrgyzstan,0.05263157894736842,[Asia]
+Indonesia,Oman,0.05263157894736842,[Asia]
+Indonesia,Jordan,0.05,[Asia]
+Indonesia,North Korea,0.05,[Asia]
+New Zealand,Pakistan,0.05,[English]
+India,Malaysia,0.022222222222222223,[Asia]
+India,Cambodia,0.022222222222222223,[Asia]
+India,Bangladesh,0.022222222222222223,[Asia]
+India,Kyrgyzstan,0.022222222222222223,[Asia]
+India,Oman,0.022222222222222223,[Asia]
+India,Kuwait,0.022222222222222223,[Asia]
+India,Lebanon,0.022222222222222223,[Asia]
+India,Mongolia,0.022222222222222223,[Asia]
+India,Liberia,0.022222222222222223,[English]
+New Zealand,India,0.02127659574468085,[English]
