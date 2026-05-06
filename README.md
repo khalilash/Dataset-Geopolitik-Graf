@@ -2,6 +2,10 @@
 
 Proyek ini merupakan implementasi **Knowledge Graph** untuk memetakan dan menganalisis hubungan antar entitas geopolitik di seluruh dunia. [cite_start]Dengan mengintegrasikan data dari **Wikidata** dan **DBpedia**, proyek ini mengeksplorasi keterkaitan antara kota, negara, benua, bahasa, dan mata uang menggunakan algoritma graf.
 
+## Anggota
+* [cite_start]**Alisha Rafimalia:** 5026231202
+* [cite_start]**Khalila Shafarayhani A.:** 5026231167
+  
 ## 📝 Latar Belakang
 Dalam analisis data tradisional, hubungan antar wilayah seringkali hanya dilihat sebagai atribut statis. [cite_start]Proyek ini menggunakan pendekatan **Graph Computing** untuk memahami "pengaruh" dan "kedekatan" antar entitas berdasarkan struktur jaringan mereka, bukan hanya sekadar data angka.
 
